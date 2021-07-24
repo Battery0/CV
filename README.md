@@ -1,7 +1,7 @@
 ## Ian King
 
 
-**[Projects](https://github.com/Battery0/CV#Projects) | [Experience](https://github.com/Battery0/CV#Experience) | [Education](https://github.com/Battery0/CV#education) | [Skills](https://github.com/Battery0/CV#skills) | [Interests and hobbies](https://github.com/Battery0/CV#interests-and-hobbies) | <a href="https://www.linkedin.com/in/iankinguk" target="blank" rel="noopener noreferrer">LinkedIn</a>**
+**[Projects](https://github.com/Battery0/CV#Projects) | [Work Experience](https://github.com/Battery0/CV#Work Experience) | [Education](https://github.com/Battery0/CV#education) | [Skills](https://github.com/Battery0/CV#skills) | [Hobbies](https://github.com/Battery0/CV#Hobbies) | <a href="https://www.linkedin.com/in/iankinguk" target="blank" rel="noopener noreferrer">LinkedIn</a>**
 <!--
 Add a medium link to blog once up and running
 -->
