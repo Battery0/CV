@@ -62,7 +62,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The Open University (2015 - 2020)
 
 - Subject, any specialisms
 - Grade
