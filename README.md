@@ -74,7 +74,13 @@ Consider skills relevent to software development. Then consider your best skills
 <!--
 Problem solving
 Planning
+Communication
+Adaptable
+Meet deadlines
 Project Management
+Time management
+Self motivated
+Learner
 -->
 
 
@@ -133,8 +139,9 @@ Bachelor of Engineering (Hons) 2:1
 - -my eng path-->
 
 #### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+_To do._
+<!--
+That in some arguable way make you a better software developer or well-rounded person -->
 
 
 
@@ -145,5 +152,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+_To do._
+<!--
+Any cool stuff that makes you a super part of a software development team -->
