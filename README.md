@@ -53,7 +53,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 20201 to October 2021)
+<!---
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -61,12 +62,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-
+--->
 #### The Open University (2015 - 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Bachelor of Engineering (Hons) 2:1
+
+- Completed the degree whilst in full time employment.
+
 
 #### Any other qualifications
 
