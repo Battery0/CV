@@ -35,6 +35,7 @@ _To do._
 
 **Turner & Townsend** (December 2018 - July 2020)  
 _Project Controls Engineer_
+
 _To do._
 <!-- - Any experience, including roles and responsibilities and results achieved in bullet point format.
 - Any experience relevant to software development -->
@@ -43,6 +44,7 @@ _To do._
 
 **Jacobs / CH2M** (February 2016 - July 2018)  
 _Planning and Project Controls Engineer_
+
 _To do._
 
 
@@ -108,6 +110,7 @@ Main responsibilities included:
 
 ## Skills
 _To do._
+
 <!--
 Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.-->
