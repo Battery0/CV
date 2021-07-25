@@ -1,9 +1,9 @@
 ## Ian King
 
 
-**[Projects](https://github.com/Battery0/CV#Projects) | [Work Experience](https://github.com/Battery0/CV#Work-Experience) | [Education](https://github.com/Battery0/CV#education) | [Skills](https://github.com/Battery0/CV#skills) | [Hobbies](https://github.com/Battery0/CV#Hobbies) | <a href="https://www.linkedin.com/in/iankinguk" target="blank" rel="noopener noreferrer">LinkedIn</a>**  
+**[Projects](https://github.com/Battery0/CV#Projects) | [Work Experience](https://github.com/Battery0/CV#Work-Experience) | [Education](https://github.com/Battery0/CV#education) | [Skills](https://github.com/Battery0/CV#skills) | [Interests and Hobbies](https://github.com/Battery0/CV#Interests-and-Hobbies) | <a href="https://www.linkedin.com/in/iankinguk" target="blank" rel="noopener noreferrer">LinkedIn</a>**  
 <!--
-Add a medium link once once is up and running
+Add a medium link once it's up and running
 -->
 
 
@@ -17,11 +17,11 @@ Completed the degree whilst in full time employment.
 
 ## Projects
 _To do._
-<!--
+
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |-->
+| **Something else worked on** | A webapp to do y. | Ruby              |
 
 
 
@@ -35,61 +35,70 @@ _To do._
 
 **Turner & Townsend** (December 2018 - July 2020)  
 _Project Controls Engineer_
+_To do._
+<!-- - Any experience, including roles and responsibilities and results achieved in bullet point format.
+- Any experience relevant to software development -->
 
-<!-- - Any experience, including roles and responsibilities and results achived in bullet point format.
-- Any experience relevent to software development -->
 
 
-
-**Jacobs / CH2M** (Feburary 2016 - July 2018)  
+**Jacobs / CH2M** (February 2016 - July 2018)  
 _Planning and Project Controls Engineer_
-Worked in various industries
+_To do._
 
 
 
 **AMEC Foster Wheeler** (April 2013 - December 2015)  
 _Junior Project Engineer_
-Working within the oil and gas sector
 
-Junior Project engineer in the oil and gas sector for large scale eng refinery projects with budgets in excess of $$$$ (or range of budgets in excess of).
-Main responsibkuities included
-- Complex technical document and review
+_To do._
 
+Junior Project engineer in the oil and gas sector working on large scale engineering refinery projects with budgets in the range of 15 to 25 billion dollars.
+Projects and clients included: KNPC Al-Zour Oil Refinery, Takoradi (Mansuriya) Detailed Engineering Bid, KOC Manifold Group Trunkline (MGT) and New Water Centre (NWC) FEED Phase, BP Standardisation and Amec Foster Wheeler Corporate Greenfield Project Management Plan.
 
-
-Worked on multiple projects with key Amec Foster Wheeler clients. Projects included:
-- KNPC Al-Zour Oil Refinery, Takoradi (Mansuriya) - Detailed Engineering Bid, KOC - Manifold Group Trunkline (MGT) and New Water Centre (NWC) FEED Phase, BP Standardisation, Amec Foster Wheeler Corporte - Greenfield Project Management Plan
-Responsabilities varied across projects but included:
-
-- any specific projects I want to call out
-
-Projects included
--
--
--
-
-Key achievements included
-- Excellent feedback from BP directors
--
--
-
-
-
-
-**Visual Effects (VFX) Freelance VFX Artist - Various Companies** (Janurary 2007 - December 2012)  
-_Senior 3D Generalist_
-
-Worked as a 3D Artist within the film, broadcast and commercials industry with a number of high profile clients including; BBC, Samsung, Sky, Cadbury and Walt Disney Pictures. Key aspect of the role being the translation of abstract client vision into creation of realistic 3D assets and environments for both television and cinema.
 Main responsibilities included:
-- Leadership and collaboration of multi-disciplinary teams
+- Management of receipt, distribution and review of Group Instruction to Supply (GIS) specifications received by Amec. Coordination with technical disciplines to collate, verify and validate comments
+- Coordinate responses Complex technical document and review and management of engineers
+- Established budget, resource availability and susequent monitoring of expenditure and man hours
+- Collaboration and support of senior engineers and senior management both internally and client teams
+- Development of initial Work Breakdown Structures (WBS)
+- Carried out corporate project risk categorisation
+- Coordinate Request for Quotations (RFQs) and Bill of Quantities (BoQs) for tender responses. Support engineering disciplines in preparation of detailed engineering estimates
+
+**Freelance Visual Effects (VFX) Artist - Various Companies** (January 2007 - December 2012)  
+_3D Digital Artist (Generalist)_
+
+Freelance 3D Artist working on a number of high profile projects within broadcast, documentary and corporate sectors. Key clients and projects included: BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', BAE Systems global corporate conference video and History Channels 'Mankind the Story of Us' and 'World War 2 from Space'.
+
+Main responsibilities included:
+- Working directly with client directors, internal VFX supervisor and production teams
+- Creation and rendering of photo realistic 3D assets, environments and shots that included: 3D modelling, texturing, sculpting, shading, lighting and rendering of assets and environments
+- Leadership and collaboration of multi-disciplinary teams and mentoring of junior artists
 - Technical problem solving
-- Creation of high quality 3D assets and environments
-- Meeting interal and external deadlines
+- Meeting internal and external deadlines
 - Meeting and exceeding client requirements
 
 
-**MPC Moving Picture Company** vfx artist 2008 -
+**Moving Picture Company (MPC)** (July 2008 - November 2010)  
+_3D Digital Artist - Generalist_
 
+Working within MPCs commercial and film departments to build high quality 3D assets for key clients including Philips, SyFy Channel, Cadburys and Walt Disney Pictures. Projects included Philips Senso Touch, Cadburys 'Spots vs Stripes' for the London Olympics, G.I. Joe: The Rise of Cobra and Prince of Persia: The Sands of Time. Selected for MPCs 'Operators Course' to gain deeper understanding of commercial workflows.
+
+Main responsibilities included:
+- Modelling and texturing of 3D assets
+- Previsualisation
+- Meeting critical client deadlines for airing of commercials and films.
+
+
+
+**Electronic Arts** (December 2007 - June 2008)
+_QA Tester_
+
+Working in the Quality Assurance department at Electronic Arts for the Nintendo GameCube and Xbox 360 systems to find, reproduce and document software bugs in AAA titles, including Harry Potter, Fifa, James Bond and Battlefield 2: Modern Combat.
+
+Main responsibilities included:
+- Finding, reproducing and documenting software bugs for the software development team to debug
+- Maintaining and updating software bug database
+- Validating required legal information was displayed in game
 
 
 
@@ -100,7 +109,7 @@ Main responsibilities included:
 ## Skills
 _To do._
 <!--
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.-->
 
 - Problem solving
@@ -112,8 +121,6 @@ Consider skills relevent to software development. Then consider your best skills
 - Time management
 - Self motivated/driven
 - Avid Self Learner
-
-
 
 <!--
 -STAR
@@ -154,7 +161,7 @@ _To do._
 #### Makers Academy (2021 - 2021)
 _To do._
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -163,25 +170,24 @@ _To do._
 
 #### The Open University (2015 - 2020)
 Bachelor of Engineering (Hons) 2:1
-<!-- focus on eng, maths, product design/innovation, project management
-- Product innovation (my final project) - use engeering methods & principles, eng physics, science to create original workable design created prototype design - research
-- Attended and participated in several weeks away at Bath University - engineering focused activities & group presentations
-- -my eng path-->
+- Cumulated in the project management and design of a realistic and buildable innovative new product using academic research, engineering principles and methods, science and mathematics to enable dogs with limited mobility to be lifted into car boots.
+- Attended several week long campus visits to Bath University to participate in group engineering research, projects, activities and group presentations
+- The Degree and chosen pathway (Engineering Design) is accredited with the prestigious Institution of Mechanical Engineers (IMechE)
 
-#### Any other qualifications
-_To do._
+#### SAE Institute (2006 - 2007)
+Visual Effects 3D Modelling and Animation
+
 <!--
+courses taken in engineering ?
 That in some arguable way make you a better software developer or well-rounded person -->
 
 
 
 
 
+## Interests and Hobbies
 
-
-
-
-## Hobbies
-_To do._
-<!--
-Any cool stuff that makes you a super part of a software development team -->
+- Technology (computing, engineering, science)
+- Building computers
+- Board games
+- Video games
