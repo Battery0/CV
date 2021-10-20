@@ -20,9 +20,9 @@ _To do._
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
+| [Code4Fun](https://github.com/moby-codes/makers-final-project) | An app to teach young children code concepts through themed stories and quizzes | Javascript, React, Node, Express, MongoDB, Jest, HTML & CSS |
+| **Acebook** | A facebook clone built over a 2 week period. Sign up, log in and let the world know whats on your mind | Ruby, Ruby on Rails, Active Record, Rspec, Capybara, HTML & CSS, Heroku |
+| [Bank Tech Test](https://github.com/Battery0/bank) | An example tech test showcasing object oriented programming and design | Ruby, Rspec |
 
 
 
@@ -58,7 +58,7 @@ Junior Project engineer in the oil and gas sector working on large scale enginee
 Projects and clients included: KNPC Al-Zour Oil Refinery, Takoradi (Mansuriya) Detailed Engineering Bid, KOC Manifold Group Trunkline (MGT) and New Water Centre (NWC) FEED Phase, BP Standardisation and Amec Foster Wheeler Corporate Greenfield Project Management Plan.
 
 Main responsibilities included:
-- Management of receipt, distribution and review of Group Instruction to Supply (GIS) specifications received by Amec. Coordination with technical disciplines to collate, verify and validate comments
+- Management of receipt, distribution and review of Group Instruction to Supply (GIS) specifications received by Amec. Coordination with technical disciplines to collate, verify and validate tecomments
 - Coordinate responses Complex technical document and review and management of engineers
 - Established budget, resource availability and susequent monitoring of expenditure and man hours
 - Collaboration and support of senior engineers and senior management both internally and client teams
@@ -95,7 +95,7 @@ Main responsibilities included:
 **Electronic Arts** (December 2007 - June 2008)
 _QA Tester_
 
-Working in the Quality Assurance department at Electronic Arts for the Nintendo GameCube and Xbox 360 systems to find, reproduce and document software bugs in AAA titles, including Harry Potter, Fifa, James Bond and Battlefield 2: Modern Combat.
+Working in the Quality Assurance department at Electronic Arts for the Nintendo GameCube and Xbox 360 systems to find, reproduce and document software bugs in AAA titles, including: Harry Potter, Fifa, James Bond and Battlefield 2: Modern Combat.
 
 Main responsibilities included:
 - Finding, reproducing and documenting software bugs for the software development team to debug
