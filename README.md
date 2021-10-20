@@ -13,11 +13,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 <!--
 A highly self-motivated junior software developer that posses a diligent and methodical approach to work.
 
-My experience includes complex technical engineering, having worked in various industries including; oil & gas, UK infrastructure, defence and creativity through working in film and commericals as a 3D Artist, which I look to combine and utilise as I start my career in tech.
+My experience includes complex technical engineering having worked in various industries including; oil & gas, UK infrastructure, defence and creativity through working in broadcast and films as a 3D Artist. I look to combine my technical and creative  which I look to combine and utilise as I start my career in tech.
 
-As a champion of self learning, having completed a Bachelors of Engineering part time over 6 years working evenings and weekends whilst in full time employment.
+As a champion of self learning, having completed a Bachelors of Engineering part time over 6 years working evenings and weekends whilst in full time employment.... naturally suited to software development.
  
-I am looking for a company that will nurture, support and enable me to grow and develop as a software developer, who actively employs TDD principles and agile methodologies.
+I am looking for a company that will nurture and enable me to grow and develop as a software developer, who actively employs TDD principles and agile methodologies.
 
 
 
@@ -190,7 +190,7 @@ _To do._
 #### The Open University (2015 - 2020)
 Bachelor of Engineering (Hons) 2:1
 - Cumulated in the project management and design of a realistic and buildable innovative new product using academic research, engineering principles and methods, science and mathematics to enable dogs with limited mobility to be lifted into car boots.
-- Attended several week long campus visits to Bath University to participate in group engineering research, projects, activities and group presentations
+- Attended several week long campus visits to Bath University to participate in group engineering activities, projectsand presentations
 - The Degree and chosen pathway (Engineering Design) is accredited with the prestigious Institution of Mechanical Engineers (IMechE)
 
 #### SAE Institute (2006 - 2007)
