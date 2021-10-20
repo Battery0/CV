@@ -1,29 +1,42 @@
 ## Ian King
 
-
 **[Projects](https://github.com/Battery0/CV#Projects) | [Work Experience](https://github.com/Battery0/CV#Work-Experience) | [Education](https://github.com/Battery0/CV#education) | [Skills](https://github.com/Battery0/CV#skills) | [Interests and Hobbies](https://github.com/Battery0/CV#Interests-and-Hobbies) | <a href="https://www.linkedin.com/in/iankinguk" target="blank" rel="noopener noreferrer">LinkedIn</a>**  
+
+
+
+
+
 <!--
-Add a medium link once it's up and running
--->
-
-
-
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+-->
 
 <!--
-Completed the degree whilst in full time employment.
+A highly self-motivated junior software developer that posses a diligent and methodical approach to work.
+
+My experience includes complex technical engineering, having worked in various industries including; oil & gas, UK infrastructure, defence and creativity through working in film and commericals as a 3D Artist, which I look to combine and utilise as I start my career in tech.
+
+As a champion of self learning, having completed a Bachelors of Engineering part time over 6 years working evenings and weekends whilst in full time employment.
+ 
+I am looking for a company that will nurture, support and enable me to grow and develop as a software developer, who actively employs TDD principles and agile methodologies.
+
+
+
+deliver value
+works well in team - linkedin recommendations link?
 -->
+
+
 
 
 ## Projects
-_To do._
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Code4Fun](https://github.com/moby-codes/makers-final-project) | An app to teach young children code concepts through themed stories and quizzes | Javascript, React, Node, Express, MongoDB, Jest, HTML & CSS |
-| **Acebook** | A facebook clone built over a 2 week period. Sign up, log in and let the world know whats on your mind | Ruby, Ruby on Rails, Active Record, Rspec, Capybara, HTML & CSS, Heroku |
-| [Bank Tech Test](https://github.com/Battery0/bank) | An example tech test showcasing object oriented programming and design | Ruby, Rspec |
+| [Code4Fun](https://github.com/moby-codes/makers-final-project) | Teaching young children code concepts through themed stories and quizzes - _Makers Final Team Project_ | Javascript, React, Node, Express, MongoDB, Jest, HTML & CSS |
+| **Acebook** | A facebook clone built over a 2 week period. Sign up, log in and let the world know whats on your mind - _Team Project_ | Ruby, Ruby on Rails, Active Record, Postgres SQL, Rspec, Capybara, HTML & CSS, Heroku |
+| [Bank Tech Test](https://github.com/Battery0/bank) | An example tech test showcasing object oriented programming and design - _Solo Project_ | Ruby, Rspec |
 
+For a complete list, see my [GitHub repositories](https://github.com/Battery0?tab=repositories).
 
 
 
@@ -108,6 +121,8 @@ Main responsibilities included:
 
 
 
+
+
 ## Skills
 _To do._
 
@@ -116,6 +131,7 @@ Consider skills relevant to software development. Then consider your best skills
 (Using a STAR example Paragraph) Consider the questions below.-->
 
 - Problem solving
+- Pair Programming
 - Communication
 - Team player
 - Adaptable
@@ -183,6 +199,7 @@ Visual Effects 3D Modelling and Animation
 <!--
 courses taken in engineering ?
 That in some arguable way make you a better software developer or well-rounded person -->
+
 
 
 
