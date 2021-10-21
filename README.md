@@ -10,20 +10,11 @@
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 -->
 
-<!--
-A highly self-motivated junior software developer that posses a diligent and methodical approach to work.
+A highly self-motivated junior software developer that posses a diligent and methodical approach to work. My experience to date includes project controls engineering in various complex technical industries - oil & gas, UK infrastructure and defence. Combined with creativity, having worked in the broadcast and film industry as a 3D Artist. I look to combine and utilise my technical and creative sides to bring my real-world business experience and problem solving ability to deliver tangible solutions in my new tech career.
 
-My experience includes complex technical engineering having worked in various industries including; oil & gas, UK infrastructure, defence and creativity through working in broadcast and films as a 3D Artist. I look to combine my technical and creative  which I look to combine and utilise as I start my career in tech.
+As a champion of self learning, having completed a Bachelors of Engineering part time over 6 years, working evenings and weekends whilst in full time employment. I aim to bring this tenacity and drive with me to my next role; traits that I believe are valuable as a developer.
 
-As a champion of self learning, having completed a Bachelors of Engineering part time over 6 years working evenings and weekends whilst in full time employment.... naturally suited to software development.
- 
-I am looking for a company that will nurture and enable me to grow and develop as a software developer, who actively employs TDD principles and agile methodologies.
-
-
-
-deliver value
-works well in team - linkedin recommendations link?
--->
+I am exceptionally keen and motivated to start as a junior developer with a company that will nurture, guide, and enable me to grow and develop further. I am looking forward to be able to build real solutions to real problems, learn new technologies, and expand my current knowledge.
 
 
 
@@ -33,7 +24,7 @@ works well in team - linkedin recommendations link?
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Code4Fun](https://github.com/moby-codes/makers-final-project) | Teaching young children code concepts through themed stories and quizzes - _Makers Final Team Project_ | Javascript, React, Node, Express, MongoDB, Jest, HTML & CSS |
-| **Acebook** | A facebook clone built over a 2 week period. Sign up, log in and let the world know whats on your mind - _Team Project_ | Ruby, Ruby on Rails, Active Record, Postgres SQL, Rspec, Capybara, HTML & CSS, Heroku |
+| [Acebook](https://github.com/Willinlondon/acebook-rails-template-simple) | A facebook clone built over a 2 week period. Sign up, log in and let the world know whats on your mind - _Team Project_ | Ruby, Ruby on Rails, Active Record, Postgres SQL, Rspec, Capybara, HTML & CSS, Heroku |
 | [Bank Tech Test](https://github.com/Battery0/bank) | An example tech test showcasing object oriented programming and design - _Solo Project_ | Ruby, Rspec |
 
 For a complete list, see my [GitHub repositories](https://github.com/Battery0?tab=repositories).
