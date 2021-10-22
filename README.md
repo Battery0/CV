@@ -247,10 +247,15 @@ Consider skills relevant to software development. Then consider your best skills
 -What did you do? (action)
 -What was the result?-->
 
+Can we group some of these identified skills up?
+-->
 
 - Problem solving
+- Analytical
+- Resilient
 - Pair Programming
-- Communication
+- Communication (presenter, mentor)
+- Fast Learner
 - Team player
 - Adaptable
 - Meet deadlines
@@ -285,7 +290,7 @@ _To do._
 
 ## Education
 
-#### Makers Academy (2021 - 2021)
+#### Makers Academy (July 2021 - October 2021)
 _To do._
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
@@ -294,6 +299,24 @@ _To do._
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine -->
+
+<!-- 
+Domain modelling
+Wireframing
+REST 
+-->
+
+A 16 week full time software development bootcamp that composed of self-led learning, pair programming, group projects and coach driven workshops. Key areas of focus were:
+* Agile methodologies - stand ups, retros
+* Object Orientated Design (OOD) - 
+* Object Orientated Programming (OOP) - 
+* The MVC website design pattern
+* Test Driven Development (TDD) and Behaviour Driven Development (BDD) - 
+* Pair programming and group projects - 
+* Tech stack - Ruby, Rails, Sinatra, JavaScript, Node, Express, PostgresSQL, RSpec, Capybara, Jasmine and Jest
+* Code quality
+
+
 
 #### The Open University (2015 - 2020)
 Bachelor of Engineering (Hons) 2:1
