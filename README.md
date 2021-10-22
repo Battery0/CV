@@ -9,11 +9,11 @@
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 -->
-A highly self-motivated junior software developer that posses a diligent and methodical approach to work. My experience to date includes project controls engineering in various complex technical industries - oil & gas, UK infrastructure and defence, combined with creativity, having worked in the broadcast and film industry as a 3D Artist. I look to combine and utilise my technical and creative sides to bring my real-world business experience and problem solving ability to deliver tangible solutions in my new career in tech.
+A highly self-motivated junior software developer that possesses a diligent and methodical approach to work. My experience to date includes project controls engineering in various complex technical industries - oil & gas, UK infrastructure and defence, combined with creativity, having worked in the broadcast and film industry as a 3D Artist. I look to combine and utilise my technical and creative sides to bring my real-world business experience and problem solving ability to deliver tangible solutions in my new career in tech.
 
 As a champion of self learning, having completed a Bachelors of Engineering part time over 6 years, working evenings and weekends whilst in full time employment. I aim to bring this tenacity and drive with me to my next role; traits that I believe are valuable as a developer.
 
-I am exceptionally keen and motivated to start as a junior developer with a company that will nurture, guide, and enable me to grow and develop further. I am looking forward to build real solutions to real problems, learn new technologies and expand my current knowledge.
+I am exceptionally keen and motivated to start a new role as a junior developer with a company that will nurture, guide, and enable me to grow and develop further. I am looking forward to build real solutions to real problems, learn new technologies and expand my current knowledge.
 
 
 
