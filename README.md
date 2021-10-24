@@ -49,11 +49,6 @@ Main responsibilities included:
 * Carry out schedule assurance on supplier’s monthly updated schedules to ensure quality, progress and time.
 * Ensure alignment between project forecasted costs for project gateways and schedule dates.
 * Develop procedures and manuals for handover to client following project completion.
-* 
-* Develop and create the schedule analysis criteria for Highways England to analyse contractor schedules.
-* Supporting Heathrow Asset Management rail project managers in ensuring achievement of project Gateway milestones in relation to HAL project governance for the Q6+1 framework.
-* Working with HAL rail project managers in understanding project progress and updating project schedules accordingly. Identifying and recording commentary for reasons for schedule delay and understanding the impact on gateway milestones on a monthly basis.
-* Ensure alignment between project forecasted costs for project gateways and schedule dates.
 
 
 **Jacobs / CH2M** (February 2016 - July 2018) Bristol and London, UK
@@ -71,7 +66,7 @@ Main responsibilities included:
 * Supporting project controls documentation and creation of planning work instructions to develop client project controls capability
 
 
-**AMEC Foster Wheeler** (April 2013 - December 2015)  
+**AMEC Foster Wheeler** (April 2013 - December 2015) London, UK
 _Junior Project Engineer_
 
 Junior project engineer within the oil and gas sector working on large scale engineering refinery projects with budgets of $15-$25 billion. Cient projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
@@ -86,48 +81,41 @@ Main responsibilities included:
 * Led lessons learned exercise with project team in conjunction with risk management
 
 
-**Freelance Visual Effects (VFX) Artist - Various Companies** (January 2007 - December 2012)  
+**Freelance Visual Effects (VFX) Artist - Various Companies** (January 2011 - December 2012) London, UK
 _3D Digital Artist (Generalist)_
 
-Freelance 3D Artist working on a number of high profile projects within broadcast, documentary and corporate sectors. Key clients and projects included: BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind the Story of Us' and 'World War 2 from Space'.
+Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'.
 
 Main responsibilities included:
-- Working directly with client directors, internal VFX supervisor and production teams
-- Creation and rendering of photo realistic 3D assets, environments and shots that included: 3D modelling, texturing, sculpting, shading, lighting and rendering of assets and environments
-* Leadership and collaboration of multi-disciplinary teams and mentoring of junior artists
-* Technical problem solving
-* Meeting internal and external deadlines
-* Meeting and exceeding client requirements
+- Working directly with client directors, internal VFX supervisor and production teams to realise the director's creative vision for the project
+- Creation and rendering of photo realistic 3D assets, environments and shots encompassing 3D modelling, texturing, sculpting, shading, and lighting of assets and environments
+* Collaborative leadership of multi-disciplinary teams and mentoring of junior artists
+* Technical problem solving to address challenges with 3D rendoring and modelling
+* Managing shot workload in order to meet deadlines and exceed client requirements
+* Continual self-led development of 3D skills to keep pace with changing technologies
 
 
-**Moving Picture Company (MPC)** (July 2008 - November 2010)  
+**Moving Picture Company (MPC)** (July 2008 - November 2010) London, UK
 _3D Digital Artist - Generalist_
 
-Working within MPCs commercial and film departments to build high quality 3D assets for key clients including Philips, SyFy Channel, Cadburys and Walt Disney Pictures. Projects included Philips Senso Touch, Cadburys 'Spots vs Stripes' for the London Olympics, G.I. Joe: The Rise of Cobra and Prince of Persia: The Sands of Time. Selected for MPCs 'Operators Course' to gain deeper understanding of commercial workflows.
+Junior 3D Artist within the MPC commercial and film departments, building high quality 3D assets for client projects, including Cadburys 'Spots vs Stripes' London Olympics ad campaign, Paramount Pictures _G.I. Joe: The Rise of Cobra_, and Walt Disney Studios _Prince of Persia: The Sands of Time_.
 
 Main responsibilities included:
-* Modelling and texturing of 3D assets
-* Previsualisation
-* Meeting critical client deadlines for airing of commercials and films.
+* Collaborating with clients to produce previsualisation of options for potential shot direction
+* Modelling and texturing of film and broadcast visual effects 3D assets 
+* Managing assigned workload in order to meet critical client deadlines for airing of commercials and films
+* Working within teams of 3D artists to complete complex visual effects design projects
 
 
-
-**Electronic Arts** (December 2007 - June 2008)
+**Electronic Arts** (December 2007 - June 2008) Chertsey, UK
 _QA Tester_
 
-Working in the Quality Assurance department at Electronic Arts for the Nintendo GameCube and Xbox 360 systems to find, reproduce and document software bugs in AAA titles, including: Harry Potter, Fifa, James Bond and Battlefield 2: Modern Combat.
+Games development quality assurance tester for Electronic Arts, focusing on the Nintendo GameCube and Xbox 360. QA testing included AAA games within well-known franchises of _Harry Potter_, _FIFA_, _James Bond_, and _Battlefield_.
 
 Main responsibilities included:
-* Finding, reproducing and documenting software bugs for the software development team to debug
-* Maintaining and updating software bug database
-* Validating required legal information was displayed in game
-
-
-
-
-
-
-
+* Finding, reproducing, and documenting software issues and raising to the development team for technical de-bugging
+* Maintaining and updating identified issues wihin software bug database for management of version control
+* Validating correct inclusion of publsher and games studio legally required imagery and wording within title credits
 
 
 ## Skills
