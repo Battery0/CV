@@ -2,20 +2,11 @@
 
 **[Projects](https://github.com/Battery0/CV#Projects) | [Work Experience](https://github.com/Battery0/CV#Work-Experience) | [Education](https://github.com/Battery0/CV#education) | [Skills](https://github.com/Battery0/CV#skills) | [Interests and Hobbies](https://github.com/Battery0/CV#Interests-and-Hobbies) | <a href="https://www.linkedin.com/in/iankinguk" target="blank" rel="noopener noreferrer">LinkedIn</a>**  
 
-
-
-
-
-<!--
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
--->
 A highly self-motivated junior software developer possessing a diligent and methodical approach to work. My experience to date includes project controls engineering in various complex technical industries - oil & gas, UK infrastructure and defence, combined with creativity, having worked in the broadcast and film industry as a 3D Artist. I look to combine and utilise my technical and creative sides to bring my real-world business experience and problem solving ability to deliver tangible solutions in my new career in tech.
 
 As a champion of self learning, having completed a Bachelors of Engineering part time over 6 years, working evenings and weekends whilst in full time employment. I aim to bring this tenacity and drive with me to my next role; traits that I believe are valuable as a developer.
 
 I am exceptionally keen and motivated to start a new role as a junior developer with a company that will nurture, guide, and enable me to grow and develop further. I am looking forward to build real solutions to real problems, learn new technologies and expand my current knowledge.
-
-
 
 
 ## Projects
@@ -29,22 +20,17 @@ I am exceptionally keen and motivated to start a new role as a junior developer 
 For a complete list, see my [GitHub repositories](https://github.com/Battery0?tab=repositories).
 
 
-
-
-
-
-
 ## Work Experience
 
 **Turner & Townsend** (December 2018 - July 2020) London, UK
 _Project Controls Engineer_
 
-Engineering project controls consultant focusing on client-facing project planning within the tansporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes.
+Engineering project controls consultant focusing on client-facing project planning within the transporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes.
 
-Main responsibilities included:
-* Centralised simulteaneous work planning and schedule mangement for 20+ projects with budget of £100K+.
-* Identification, analysis, and communcation of project timeline and budget risks.
-* Detailed tracking and updating of hundreds of engineering activties per project, including project milestones.
+Main responsibilities:
+* Centralised simultaneous work planning and schedule management for 20+ projects with budget of £100K+.
+* Identification, analysis, and communication of project timeline and budget risks.
+* Detailed tracking and updating of hundreds of engineering activities per project, including project milestones.
 * Complex stakeholder management of client teams, external contractors, and internal senior management.
 * Carry out schedule assurance on supplier’s monthly updated schedules to ensure quality, progress and time.
 * Ensure alignment between project forecasted costs for project gateways and schedule dates.
@@ -54,9 +40,9 @@ Main responsibilities included:
 **Jacobs / CH2M** (February 2016 - July 2018) Bristol and London, UK
 _Planning and Project Controls Engineer_
 
-Project planning and controls engineer within the defence and transportation sectors. Projects included Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
+Project planning and controls engineer within the defence, infrastructure and transportation sectors. Projects included Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
 
-Main responsibilities included:
+Main responsibilities:
 * Develop project schedule, baseline, activity logic, milestones and resources in conjunction with client project manager
 * Monthly progression, monitoring and issue of activity updates against baseline schedule and coordination with Project Management team
 * Critical path, float erosion, activity analysis and comparison against project plan baseline
@@ -69,9 +55,9 @@ Main responsibilities included:
 **AMEC Foster Wheeler** (April 2013 - December 2015) London, UK
 _Junior Project Engineer_
 
-Junior project engineer within the oil and gas sector working on large scale engineering refinery projects with budgets of $15-$25 billion. Cient projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
+Junior project engineer within the oil and gas sector working on large scale engineering refinery projects with budgets of $15-$25 billion. Client projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
 
-Main responsibilities included:
+Main responsibilities:
 * Management of Amec Foster Wheeler’s role and responsibilities in relation to the client
 * Establishment of budget, resource availability, plans, and subsequent monitoring of expenditure supported by cost engineering
 * Providing assistance with tender technical bidder queries
@@ -86,11 +72,11 @@ _3D Digital Artist (Generalist)_
 
 Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'.
 
-Main responsibilities included:
+Main responsibilities:
 - Working directly with client directors, internal VFX supervisor and production teams to realise the director's creative vision for the project
 - Creation and rendering of photo realistic 3D assets, environments and shots encompassing 3D modelling, texturing, sculpting, shading, and lighting of assets and environments
 * Collaborative leadership of multi-disciplinary teams and mentoring of junior artists
-* Technical problem solving to address challenges with 3D rendoring and modelling
+* Technical problem solving to address challenges with 3D rendering and modelling
 * Managing shot workload in order to meet deadlines and exceed client requirements
 * Continual self-led development of 3D skills to keep pace with changing technologies
 
@@ -98,9 +84,9 @@ Main responsibilities included:
 **Moving Picture Company (MPC)** (July 2008 - November 2010) London, UK
 _3D Digital Artist - Generalist_
 
-Junior 3D Artist within the MPC commercial and film departments, building high quality 3D assets for client projects, including Cadburys 'Spots vs Stripes' London Olympics ad campaign, Paramount Pictures _G.I. Joe: The Rise of Cobra_, and Walt Disney Studios _Prince of Persia: The Sands of Time_.
+Junior 3D Artist within the MPC commercial and film departments, building high quality 3D assets for client projects, including Cadburys 'Spots vs. Stripes' London Olympics ad campaign, Paramount Pictures _G.I. Joe: The Rise of Cobra_, and Walt Disney Studios _Prince of Persia: The Sands of Time_.
 
-Main responsibilities included:
+Main responsibilities:
 * Collaborating with clients to produce previsualisation of options for potential shot direction
 * Modelling and texturing of film and broadcast visual effects 3D assets 
 * Managing assigned workload in order to meet critical client deadlines for airing of commercials and films
@@ -112,10 +98,16 @@ _QA Tester_
 
 Games development quality assurance tester for Electronic Arts, focusing on the Nintendo GameCube and Xbox 360. QA testing included AAA games within well-known franchises of _Harry Potter_, _FIFA_, _James Bond_, and _Battlefield_.
 
-Main responsibilities included:
+Main responsibilities:
 * Finding, reproducing, and documenting software issues and raising to the development team for technical de-bugging
-* Maintaining and updating identified issues wihin software bug database for management of version control
-* Validating correct inclusion of publsher and games studio legally required imagery and wording within title credits
+* Maintaining and updating identified issues within software bug database for management of version control
+* Validating correct inclusion of publisher and games studio legally required imagery and wording within title credits
+
+
+
+
+
+
 
 
 ## Skills
@@ -201,24 +193,16 @@ A 16 week full time software development bootcamp that composed of self-led lear
 * Code quality
 
 
-
 #### The Open University (2015 - 2020)
 Bachelor of Engineering (Hons) 2:1 
 6-year remote learning degree with university campus visits for practical engineering lab-based work
 * Degree path focusing on Engineering Design, encompassing mathematics, chemistry, physics, product innovation and design, structural analysis, environmental management, energy and sustainability
 * Final project, 'project name here', encompassing product research, design, and prototyping 'categories the project incorporated - created based on user research and user stories - project toolkit - brainstorming'
-* Accerdited degree with the prestigious Institution of Mechanical Engineers (IMechE)
+* Accredited degree with the prestigious Institution of Mechanical Engineers (IMechE)
+
 
 #### SAE Institute (2006 - 2007)
 Visual Effects 3D Modelling and Animation
-
-<!--
-courses taken in engineering ?
-That in some arguable way make you a better software developer or well-rounded person -->
-
-
-
-
 
 
 ## Interests and Hobbies
