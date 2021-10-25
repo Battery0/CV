@@ -196,17 +196,17 @@ A 16 week full time software development bootcamp that composed of self-led lear
 #### The Open University (2015 - 2020)
 Bachelor of Engineering (Hons) 2:1 
 6-year remote learning degree with university campus visits for practical engineering lab-based work
-* Degree path focusing on Engineering Design, encompassing mathematics, chemistry, physics, product innovation and design, structural analysis, environmental management, energy and sustainability
-* Final project, 'project name here', encompassing product research, design, and prototyping 'categories the project incorporated - created based on user research and user stories - project toolkit - brainstorming'
+* Degree path focusing on Engineering Design, encompassing technical problem solving, mathematics, chemistry, physics, product innovation and design, structural analysis, materials, mechanics, environmental management, energy and sustainability
+* Final project technical report, 'Novel Product Design To Load Dogs With Limited Mobility Into Car Boots', that aimed to solve a real problem that can be solved using the application of engieering principles and technologies. It incorporated product and user research, user stories, literatire review, setting project objectives and methodologies,  product idea generation and concept design creations, engineering design and analysis, structural analysis and mechanics, materials analysis and selection and critical evaluation and conclusion
 * Accredited degree with the prestigious Institution of Mechanical Engineers (IMechE)
 
 
 #### SAE Institute (2006 - 2007)
 Visual Effects 3D Modelling and Animation
+Course that comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality
 
 
 ## Interests and Hobbies
-
 * :technologist: Technology (computing, engineering, science)
 * :wrench: Building computers
 * :game_die: Board games
