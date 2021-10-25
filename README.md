@@ -179,7 +179,8 @@ _To do._
 <!-- 
 Domain modelling
 Wireframing
-REST 
+REST
+mentor
 -->
 
 A 16 week full time software development bootcamp that composed of self-led learning, pair programming, group projects and coach driven workshops. Key areas of focus were:
@@ -207,7 +208,7 @@ Course that comprised of 3D modelling, animation, texturing, lighting and render
 
 
 ## Interests and Hobbies
-* :technologist: Technology (computing, engineering, science)
-* :wrench: Building computers
-* :game_die: Board games
-* :joystick: Video games
+* Technology (computing, engineering, science)
+* Building computers
+* Board games
+* Video games
