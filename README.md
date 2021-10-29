@@ -141,6 +141,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Communication (working in teams, mentor, Pair Programming)
 <!-- eg: Work(always working in teams to deliver to client(s)) Makers(final project presentation*link from YT*) -->
 
+<!-- As a good communicator, both speaking clearly and concisely and actively listening-->
 
 #### Team work
 <!-- eg: Work(MoD, first proper role as consultant. Acted as part of a small specialised team) Makers(final project, acebook) -->
@@ -149,7 +150,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Self motivated
 <!-- eg: OU degree, Taking on Makers(Self Learner) -->
 
-<!-- As a profoundly self-motivated individual, having achieved the completion of a Bachelors of Engineering (Hons) degree through the Open University long distance over 6 years working weekends and evenings only whilst in full time employment. This required an exorbitant amount sheer determination and tenacity on my part in order to complete the required learning and multiple assignments, projects, and exams each year. This challenge would not of been possible if I was not self motivated person. The result of my ability to propel myself forward through those 6 years of working full time and doing a degree in my spare time, led me to achieve a very respectable 2:1. -->
+<!-- As a profoundly self-motivated individual, having achieved the completion of a Bachelors of Engineering (Hons) degree through the Open University long distance over 6 years working weekends and evenings only whilst in full time employment. This required an exorbitant amount sheer determination and tenacity on my part in order to complete the required learning, assignments, projects, and exams each year. This challenge would not of been surmountable if I wasn't self motivated person. The result of my ability to propel myself forward through those 6 years of working full time and doing a degree in my spare time, led me to achieve a 2:1. -->
 
 
 
@@ -176,6 +177,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * Time management (meet deadlines, project management)
 * Resilient
 * Creative
+
+
+
 
 
 
