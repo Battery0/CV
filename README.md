@@ -28,13 +28,13 @@ _Project Controls Engineer_
 Engineering project controls consultant focusing on client-facing project planning within the transporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes.
 
 Main responsibilities:
-* Centralised simultaneous work planning and schedule management for 20+ projects with budget of £100K+.
-* Identification, analysis, and communication of project timeline and budget risks.
-* Detailed tracking and updating of hundreds of engineering activities per project, including project milestones.
-* Complex stakeholder management of client teams, external contractors, and internal senior management.
-* Carry out schedule assurance on supplier’s monthly updated schedules to ensure quality, progress and time.
-* Ensure alignment between project forecasted costs for project gateways and schedule dates.
-* Develop procedures and manuals for handover to client following project completion.
+* Centralised simultaneous work planning and schedule management for 20+ projects with budget of £100K+
+* Identification, analysis, and communication of project timeline and budget risks
+* Detailed tracking and updating of hundreds of engineering activities per project, including project milestones
+* Complex stakeholder management of client teams, external contractors, and internal senior management
+* Carry out schedule assurance on supplier’s monthly updated schedules to ensure quality, progress and time
+* Ensure alignment between project forecasted costs for project gateways and schedule dates
+* Develop procedures and manuals for handover to client following project completion
 
 
 **Jacobs / CH2M** (February 2016 - July 2018) Bristol and London, UK
@@ -111,8 +111,6 @@ Main responsibilities:
 
 
 ## Skills
-_To do._
-
 <!--
 Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -121,43 +119,63 @@ Consider skills relevant to software development. Then consider your best skills
 -What was the situation/task? (ST)
 -How was the skill used?
 -What did you do? (action)
--What was the result?-->
-
-Can we group some of these identified skills up?
--->
-
-- Problem solving
-- Analytical
-- Resilient
-- Pair Programming
-- Communication (presenter, mentor)
-- Fast Learner
-- Team player
-- Adaptable
-- Meet deadlines
-- Project Management
-- Time management
-- Self motivated/driven
-- Avid Self Learner
+-What was the result?
 
 
-#### This Skill
-_To do._
-<!-- - Experience
-- Achievements
-- Evidence (STAR)-->
-
-#### Another Skill
-_To do._
-<!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)-->
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+-->
 
 
 
+
+
+#### Problem solving (analytical)
+<!-- eg: OU degree(engineering is constant problem solving) Makers(constantly coming across unkown tech/ ways of doing things to get desired result) -->
+
+
+
+#### Communication (working in teams, mentor, Pair Programming)
+<!-- eg: Work(always working in teams to deliver to client(s)) Makers(final project presentation*link from YT*) -->
+
+
+#### Team work
+<!-- eg: Work(MoD, first proper role as consultant. Acted as part of a small specialised team) Makers(final project, acebook) -->
+
+
+#### Self motivated
+<!-- eg: OU degree, Taking on Makers(Self Learner) -->
+
+<!-- As a profoundly self-motivated individual, having achieved the completion of a Bachelors of Engineering (Hons) degree through the Open University long distance over 6 years working weekends and evenings only whilst in full time employment. This required an exorbitant amount sheer determination and tenacity on my part in order to complete the required learning and multiple assignments, projects, and exams each year. This challenge would not of been possible if I was not self motivated person. The result of my ability to propel myself forward through those 6 years of working full time and doing a degree in my spare time, led me to achieve a very respectable 2:1. -->
+
+
+
+<!--Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+-STAR
+-What was the situation/task? (ST)
+-How was the skill used?
+-What did you do? (action)
+-What was the result?-->
+
+
+
+
+#### Additional Skills
+* Fast Learner (adaptable)
+* Tenacity
+* Resilient
+* Attention to detail
+* Time management (meet deadlines, project management)
+* Resilient
+* Creative
 
 
 
@@ -195,8 +213,8 @@ A 16 week full time software development bootcamp that composed of self-led lear
 
 
 #### The Open University (2015 - 2020)
-Bachelor of Engineering (Hons) 2:1 
-6-year remote learning degree with university campus visits for practical engineering lab-based work
+
+Bachelor of Engineering (Hons) 2:1. A 6-year long distance learning degree with university campus visits for practical engineering lab-based work
 * Degree path focusing on Engineering Design, encompassing technical problem solving, mathematics, chemistry, physics, product innovation and design, structural analysis, materials, mechanics, environmental management, energy and sustainability
 * Final project technical report, 'Novel Product Design To Load Dogs With Limited Mobility Into Car Boots', that aimed to solve a real problem that can be solved using the application of engieering principles and technologies. It incorporated product and user research, user stories, literatire review, setting project objectives and methodologies,  product idea generation and concept design creations, engineering design and analysis, structural analysis and mechanics, materials analysis and selection and critical evaluation and conclusion
 * Accredited degree with the prestigious Institution of Mechanical Engineers (IMechE)
