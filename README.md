@@ -2,11 +2,11 @@
 
 **[Projects](https://github.com/Battery0/CV#Projects) | [Work Experience](https://github.com/Battery0/CV#Work-Experience) | [Education](https://github.com/Battery0/CV#education) | [Skills](https://github.com/Battery0/CV#skills) | [Interests and Hobbies](https://github.com/Battery0/CV#Interests-and-Hobbies) | <a href="https://www.linkedin.com/in/iankinguk" target="blank" rel="noopener noreferrer">LinkedIn</a>**  
 
-A highly self-motivated junior software developer possessing a diligent and methodical approach to work. My experience to date includes project controls engineering in various complex technical industries - oil & gas, UK infrastructure and defence, combined with creativity, having worked in the broadcast and film industry as a 3D Artist. I look to combine and utilise my technical and creative sides to bring my real-world business experience and problem solving ability to deliver tangible solutions in my new career in tech.
+A highly self-motivated junior software developer possessing a diligent and methodical approach and a love for building things. My career to date has spanned both the highly complex technical area of project controls engineering within the oil & gas, defence, and infrastructure sectors and the fast-paced, creative, and technical area of visual effects design as a 3D artist within the film and broadcast industries. With this next stage of my career, I am excited to bring my technical, creative, and real-world business expertise together with my natural problem-solving ability in order to deliver tangible solutions in my new tech career.
 
-As a champion of self learning, having completed a Bachelors of Engineering part time over 6 years, working evenings and weekends whilst in full time employment. I aim to bring this tenacity and drive with me to my next role; traits that I believe are valuable as a developer.
+As a champion of self learning, having completed a Bachelors of Engineering remotely over six years whilst in full time employment, I aim to bring this tenacity and drive with me to my next role, traits that I believe are invaluable as a developer.
 
-I am exceptionally keen and motivated to start a new role as a junior developer with a company that will nurture, guide, and enable me to grow and develop further. I am looking forward to build real solutions to real problems, learn new technologies and expand my current knowledge.
+I am exceptionally keen and motivated to start a new role as a junior developer with a company that will nurture, guide, and enable me to grow and develop further. I look forward to building real solutions to real problems, learning new technologies, and expanding my current knowledge.
 
 
 ## Projects
@@ -22,19 +22,18 @@ For a complete list, see my [GitHub repositories](https://github.com/Battery0?ta
 
 ## Work Experience
 
-**Turner & Townsend** (December 2018 - July 2020) London, UK
-_Project Controls Engineer_
+**Project Controls Engineer** _Turner & Townsend (December 2018 - July 2020) London, UK_
 
-Engineering project controls consultant focusing on client-facing project planning within the transporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes.
+Engineering project controls consultant focusing on client-facing project planning within the transporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes. Within the role, I utilised a balance of skills across engineering project management, milestone tracking, budget controls, and risk assessment alongside proactive communication, stakeholder management, and client-facing relationship develpment.
 
-Main responsibilities:
-* Centralised simultaneous work planning and schedule management for 20+ projects with budget of £100K+
+Key responsibilities and achievements:
+* Engineering work planning and schedule management for 20+ simultaneous projects with overal budgets totalling over £20million
 * Identification, analysis, and communication of project timeline and budget risks
 * Detailed tracking and updating of hundreds of engineering activities per project, including project milestones
 * Complex stakeholder management of client teams, external contractors, and internal senior management
 * Carry out schedule assurance on supplier’s monthly updated schedules to ensure quality, progress and time
 * Ensure alignment between project forecasted costs for project gateways and schedule dates
-* Develop procedures and manuals for handover to client following project completion
+* Develop and document procedures and manuals for handover to client following project completion
 
 
 **Jacobs / CH2M** (February 2016 - July 2018) Bristol and London, UK
@@ -135,6 +134,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Problem solving (analytical)
 <!-- eg: OU degree(engineering is constant problem solving) Makers(constantly coming across unkown tech/ ways of doing things to get desired result) -->
+
+As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving the challenge of overrunning costs and project timelines. To tackle the problem, it was important to first assess the underlying issues causing the problem, which I identified as a lack of detailed engineering project plans caused by lack of resource and technical plannig expertise within the engineering teams. I addressed this by talking to the teams, defining a scope of work for each team, and from that, developing resourced engineering schedules that allowed the client to see the implications of task slippage and utilise this vivibility to make informed decisions and reduce project delays and rising costs.
+
+Problem solving is the act of defining a problem; determining the cause of the problem; identifying, prioritizing, and selecting alternatives for a solution; and implementing a solution.
 
 
 
