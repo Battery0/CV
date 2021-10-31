@@ -22,7 +22,7 @@ For a complete list, see my [GitHub repositories](https://github.com/Battery0?ta
 
 ## Work Experience
 
-**Project Controls Engineer** _Turner & Townsend (December 2018 - July 2020) London, UK_
+**Project Controls Engineer** _Turner & Townsend - December 2018 to July 2020 (London, UK)_
 
 Engineering project controls consultant focusing on client-facing project planning within the transporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes. Within the role, I utilised a balance of skills across engineering project management, milestone tracking, budget controls, and risk assessment alongside proactive communication, stakeholder management, and client-facing relationship develpment.
 
@@ -36,8 +36,7 @@ Key responsibilities and achievements:
 * Develop and document procedures and manuals for handover to client following project completion
 
 
-**Jacobs / CH2M** (February 2016 - July 2018) Bristol and London, UK
-_Planning and Project Controls Engineer_
+**Planning and Project Controls Engineer** _Jacobs / CH2M - February 2016 to July 2018 (Bristol and London, UK)_
 
 Project planning and controls engineer within the defence, infrastructure and transportation sectors. Projects included Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
 
@@ -51,8 +50,7 @@ Main responsibilities:
 * Supporting project controls documentation and creation of planning work instructions to develop client project controls capability
 
 
-**AMEC Foster Wheeler** (April 2013 - December 2015) London, UK
-_Junior Project Engineer_
+**Junior Project Engineer** _AMEC Foster Wheeler - April 2013 to December 2015 (London, UK)_
 
 Junior project engineer within the oil and gas sector working on large scale engineering refinery projects with budgets of $15-$25 billion. Client projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
 
@@ -66,8 +64,7 @@ Main responsibilities:
 * Led lessons learned exercise with project team in conjunction with risk management
 
 
-**Freelance Visual Effects (VFX) Artist - Various Companies** (January 2011 - December 2012) London, UK
-_3D Digital Artist (Generalist)_
+**3D Digital Artist** _Freelance Visual Effects Artist (various companies) - January 2011 to December 2012 (London, UK)_
 
 Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'.
 
@@ -80,8 +77,7 @@ Main responsibilities:
 * Continual self-led development of 3D skills to keep pace with changing technologies
 
 
-**Moving Picture Company (MPC)** (July 2008 - November 2010) London, UK
-_3D Digital Artist - Generalist_
+**3D Digital Artist** _Moving Picture Company - July 2008 to November 2010 (London, UK)_
 
 Junior 3D Artist within the MPC commercial and film departments, building high quality 3D assets for client projects, including Cadburys 'Spots vs. Stripes' London Olympics ad campaign, Paramount Pictures _G.I. Joe: The Rise of Cobra_, and Walt Disney Studios _Prince of Persia: The Sands of Time_.
 
@@ -92,7 +88,7 @@ Main responsibilities:
 * Working within teams of 3D artists to complete complex visual effects design projects
 
 
-**Electronic Arts** (December 2007 - June 2008) Chertsey, UK
+**QA Tester** _Electronic Arts - December 2007 to June 2008 (Chertsey, UK)_
 _QA Tester_
 
 Games development quality assurance tester for Electronic Arts, focusing on the Nintendo GameCube and Xbox 360. QA testing included AAA games within well-known franchises of _Harry Potter_, _FIFA_, _James Bond_, and _Battlefield_.
