@@ -70,10 +70,10 @@ Key responsibilities and achievements:
 Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'.
 
 Key responsibilities and achievements:
-- Working directly with client directors, VFX supervisor and production teams to realise the director's creative vision for the project
-- Creation and rendering of photo realistic 3D assets, environments and shots encompassing 3D modelling, texturing, sculpting, shading, and lighting of assets and environments
+* Working directly with client directors, VFX supervisor and production teams to realise the director's creative vision for the project
+* Creation and rendering of photo realistic 3D assets, environments and shots encompassing 3D modelling, texturing, sculpting, shading, and lighting to produce realistic shots
 * Collaborative leadership of multi-disciplinary teams and mentoring of junior artists
-* Technical problem solving to address challenges with 3D rendering and modelling
+* Technical problem solving to address challenges with 3D rendering and modelling to allow shots to be completed
 * Managing shot workload in order to meet deadlines and exceed client requirements
 * Continual self-led development of 3D skills to keep pace with changing technologies
 
@@ -84,7 +84,7 @@ Junior 3D Artist within the MPC commercial and film departments, building high q
 
 Key responsibilities and achievements:
 * Collaborating with clients to produce previsualisation of options for potential shot direction allowing the client to decide on a shot direction
-* Modelling and texturing of film and broadcast visual effects 3D assets for realistic looking shots
+* Modelling and texturing of film and broadcast visual effects 3D assets for realistic shots
 * Managing assigned workload in order to meet critical client deadlines for airing of commercials and films
 * Working within teams of 3D artists to complete complex visual effects design projects
 
