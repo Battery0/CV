@@ -31,7 +31,7 @@ Engineering project controls consultant focusing on client-facing project planni
 Key responsibilities and achievements:
 * Engineering work planning and schedule management for 20+ simultaneous projects with overal budgets totalling over £20million, allowing the client improved oversight of projects to inform better decision making for senior management and improve accuracy with cost forecasting/expenditure.
 * Identification, analysis, and communication of project timeline and budget risks to the client to highlight causes for concern and to take proactive decision making to avoid project overspend and delays
-* Detailed tracking and updating of hundreds of engineering activities per project, including project milestones
+* Detailed tracking and updating of hundreds of engineering activities and milestones per project
 * Complex stakeholder management of client teams, external contractors, and internal senior management which led to improved relationships, client satisfaction and oppened up additional work opprtunities.
 * Carried out schedule assurance on supplier’s monthly updated schedules to ensure quality, progress and time. This assured senior client management that the contractor schedules were accurate and project milestone dates were adheared to
 * Develop and document procedures and manuals for handover to client following project completion
@@ -42,13 +42,13 @@ Key responsibilities and achievements:
 Project planning and controls engineer within the defence, infrastructure and transportation sectors. Projects included Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
 
 Main responsibilities:
-* Develop project schedule, baseline, activity logic, milestones and resources in conjunction with client project manager
-* Monthly progression, monitoring and issue of activity updates against baseline schedule and coordination with Project Management team
-* Critical path, float erosion, activity analysis and comparison against project plan baseline
-* Development of ‘What If’ schedule scenarios based on Compensation Events before formal client agreement and creation of look-ahead forecast schedules for short term activity focus
-* Engagement with senior client management and engineering teams for buy-in and support of the development of the programmes schedules
-* Creation and development of multiple engineering functional scopes of work, schedules, basis of estimates, and staffing plans
-* Supporting project controls documentation and creation of planning work instructions to develop client project controls capability
+* Develop project schedule, baseline, activity logic, milestones and resources in conjunction with client project manager to construct an accurate project activity timeline to enable reliable tracking of project progression and enable identification of activity slippages that may impact key milestone dates and/or costs
+* Monthly progression, monitoring and issue of activity updates against baseline schedule and coordination with Project Management team which allowed accurate reporting of project progress to the client
+* Analysis of critical path, float erosion, activity progression and comparison against project plan baseline to identify any activity slippage and potential cost impact, whereby appropriate action could be taken by senior management to rectify slippages
+* Development of ‘what if’ schedule scenarios based on Compensation Events before formal client agreement. This allowed senior management to decide which route to take and plan out the engineering activities required before engaging the client to agree and sign off
+* Extensive communication with senior client management and engineering teams for buy-in and support of the development of the programmes schedules. Agreement across all teams was essential to ensure schedule robustness, accuracy and adherence
+* Creation and development of multiple engineering functional scopes of work, schedules, basis of estimates, and staffing plans to help inform and support project schedule establishment
+* Produce project controls documentation and planning work instructions to develop client project controls capability
 
 
 #### Junior Project Engineer - _AMEC Foster Wheeler - April 2013 to December 2015 (London, UK)_
