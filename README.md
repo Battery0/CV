@@ -41,7 +41,7 @@ Key responsibilities and achievements:
 
 Project planning and controls engineer within the defence, infrastructure and transportation sectors. Projects included Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
 
-Main responsibilities:
+Key responsibilities and achievements:
 * Develop project schedule, baseline, activity logic, milestones and resources in conjunction with client project manager to construct an accurate project activity timeline to enable reliable tracking of project progression and enable identification of activity slippages that may impact key milestone dates and/or costs
 * Monthly progression, monitoring and issue of activity updates against baseline schedule and coordination with Project Management team which allowed accurate reporting of project progress to the client
 * Analysis of critical path, float erosion, activity progression and comparison against project plan baseline to identify any activity slippage and potential cost impact, whereby appropriate action could be taken by senior management to rectify slippages
@@ -55,21 +55,21 @@ Main responsibilities:
 
 Junior project engineer within the oil and gas sector working on large scale engineering refinery projects with budgets of $15-$25 billion. Client projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
 
-Main responsibilities:
-* Management of Amec Foster Wheeler’s role and responsibilities in relation to the client
-* Establishment of budget, resource availability, plans, and subsequent monitoring of expenditure supported by cost engineering
-* Providing assistance with tender technical bidder queries
-* Supporting senior management with creation of client weekly reports, including status updates from engineering disciplines on planned, forecast, and actual issue of deliverables
-* Management of technical proposal documentation, including front end engineering design document register against progressive issue of invitation to tender deliverables within SharePoint
-* Coordination of weekly engineering document status report, including technical design drawings issued, client comments, and Amec Foster Wheeler
-* Led lessons learned exercise with project team in conjunction with risk management
+Key responsibilities and achievements:
+* Management of Amec Foster Wheeler’s role and responsibilities in relation to the client for BP technical standardisation. Direct communication with senior BP management ensuring timely turnaround of technical reviews on behalf of AMEC. This resulted in AMEC and myself receiving excellent feedback from BP
+* Establishment of budget, resource availability and subsequent monitoring of expenditure supported by cost engineering to enable accurate tracking of project costs by the contract manager
+* Providing assistance with tender technical bidder queries ensuring clients received a timely turnaround
+* Supporting senior management with creation of client weekly reports, including status updates from engineering disciplines on planned, forecast, and actual issue of deliverables. Led the client to keep up-to-date with all the latest technical deliverables
+* Management of technical proposal documentation, including front end engineering design document register against progressive issue of invitation to tender deliverables within SharePoint. Allowing client project bidders to formulate accurate bids for the work to be carried out
+* Coordination of weekly engineering document status report, including technical design drawings issued. Enabling the client to keep up-to-date with project progress and supplying them with the most up-to-date technical drawings
+* Led lessons learned exercise with project team in conjunction with risk management. Highlighting areas to the project team where growth and improvement could occur
 
 
 #### 3D Digital Artist - _Freelance Visual Effects Artist (various companies) - January 2011 to December 2012 (London, UK)_
 
 Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'.
 
-Main responsibilities:
+Key responsibilities and achievements:
 - Working directly with client directors, internal VFX supervisor and production teams to realise the director's creative vision for the project
 - Creation and rendering of photo realistic 3D assets, environments and shots encompassing 3D modelling, texturing, sculpting, shading, and lighting of assets and environments
 * Collaborative leadership of multi-disciplinary teams and mentoring of junior artists
@@ -82,7 +82,7 @@ Main responsibilities:
 
 Junior 3D Artist within the MPC commercial and film departments, building high quality 3D assets for client projects, including Cadburys 'Spots vs. Stripes' London Olympics ad campaign, Paramount Pictures _G.I. Joe: The Rise of Cobra_, and Walt Disney Studios _Prince of Persia: The Sands of Time_.
 
-Main responsibilities:
+Key responsibilities and achievements:
 * Collaborating with clients to produce previsualisation of options for potential shot direction
 * Modelling and texturing of film and broadcast visual effects 3D assets 
 * Managing assigned workload in order to meet critical client deadlines for airing of commercials and films
@@ -93,7 +93,7 @@ Main responsibilities:
 
 Games development quality assurance tester for Electronic Arts, focusing on the Nintendo GameCube and Xbox 360. QA testing included AAA games within well-known franchises of _Harry Potter_, _FIFA_, _James Bond_, and _Battlefield_.
 
-Main responsibilities:
+Key responsibilities and achievements:
 * Finding, reproducing, and documenting software issues and raising to the development team for technical de-bugging
 * Maintaining and updating identified issues within software bug database for management of version control
 * Validating correct inclusion of publisher and games studio legally required imagery and wording within title credits
@@ -128,19 +128,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 
-#### Problem solving (analytical)
+#### Problem solving
 <!-- eg: OU degree(engineering is constant problem solving) Makers(constantly coming across unkown tech/ ways of doing things to get desired result) -->
 
 As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving the challenge of overrunning costs and project timelines. To tackle the problem, it was important to first assess the underlying issues causing the problem, which I identified as a lack of detailed engineering project plans caused by lack of resource and technical plannig expertise within the engineering teams. I addressed this by talking to the teams, defining a scope of work for each team, and from that, developing resourced engineering schedules that allowed the client to see the implications of task slippage and utilise this vivibility to make informed decisions and reduce project delays and rising costs.
 
-Problem solving is the act of defining a problem; determining the cause of the problem; identifying, prioritizing, and selecting alternatives for a solution; and implementing a solution.
-
-
+Another paragraph for something Makers related?
 
 #### Communication (working in teams, mentor, Pair Programming)
 <!-- eg: Work(always working in teams to deliver to client(s)) Makers(final project presentation*link from YT*) -->
 
-<!-- As a good communicator, both speaking clearly and concisely and actively listening-->
 
 #### Team work
 <!-- eg: Work(MoD, first proper role as consultant. Acted as part of a small specialised team) Makers(final project, acebook) -->
@@ -225,7 +222,7 @@ Bachelor of Engineering (Hons) 2:1. A 6-year long distance learning degree with 
 
 #### SAE Institute (2006 - 2007)
 Visual Effects 3D Modelling and Animation
-Course that comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality
+Course that comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality.
 
 
 ## Interests and Hobbies
