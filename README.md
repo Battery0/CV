@@ -95,7 +95,7 @@ Games development quality assurance tester for Electronic Arts, focusing on the 
 
 Key responsibilities and achievements:
 * Finding, reproducing, and documenting software issues and raising to the development team for technical de-bugging
-* Maintaining and updating identified issues within software bug database for senior developers to monitor and disseminate amongst their team to solve
+* Maintaining and updating identified issues within software bug database for senior developers to monitor and disseminate amongst their team to fix
 * Validating correct inclusion of publisher and games studio legally required imagery and wording within title credits for legal compliance
 
 
@@ -131,7 +131,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Problem solving
 <!-- eg: OU degree(engineering is constant problem solving) Makers(constantly coming across unkown tech/ ways of doing things to get desired result) -->
 
-As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving the challenge of overrunning costs and project timelines. To tackle the problem, it was important to first assess the underlying issues causing the problem, which I identified as a lack of detailed engineering project plans caused by lack of resource and technical plannig expertise within the engineering teams. I addressed this by talking to the teams, defining a scope of work for each team, and from that, developing resourced engineering schedules that allowed the client to see the implications of task slippage and utilise this vivibility to make informed decisions and reduce project delays and rising costs.
+As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving the challenge of overrunning costs and project timelines. To tackle the problem, it was important to first assess the underlying issues causing the problem, which were identified as a lack of detailed engineering project plans caused by lack of resource and technical planning expertise within the engineering teams. This was addressed by talking to the teams, defining their scopes of work, and from that, developing resourced engineering schedules that allowed the client to see the implications of task slippage and utilise this vivibility to make informed decisions and reduce project delays and rising costs.
 
 Another paragraph for something Makers related?
 
