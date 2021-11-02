@@ -70,7 +70,7 @@ Key responsibilities and achievements:
 Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'.
 
 Key responsibilities and achievements:
-- Working directly with client directors, internal VFX supervisor and production teams to realise the director's creative vision for the project
+- Working directly with client directors, VFX supervisor and production teams to realise the director's creative vision for the project
 - Creation and rendering of photo realistic 3D assets, environments and shots encompassing 3D modelling, texturing, sculpting, shading, and lighting of assets and environments
 * Collaborative leadership of multi-disciplinary teams and mentoring of junior artists
 * Technical problem solving to address challenges with 3D rendering and modelling
@@ -83,8 +83,8 @@ Key responsibilities and achievements:
 Junior 3D Artist within the MPC commercial and film departments, building high quality 3D assets for client projects, including Cadburys 'Spots vs. Stripes' London Olympics ad campaign, Paramount Pictures _G.I. Joe: The Rise of Cobra_, and Walt Disney Studios _Prince of Persia: The Sands of Time_.
 
 Key responsibilities and achievements:
-* Collaborating with clients to produce previsualisation of options for potential shot direction
-* Modelling and texturing of film and broadcast visual effects 3D assets 
+* Collaborating with clients to produce previsualisation of options for potential shot direction allowing the client to decide on a shot direction
+* Modelling and texturing of film and broadcast visual effects 3D assets for realistic looking shots
 * Managing assigned workload in order to meet critical client deadlines for airing of commercials and films
 * Working within teams of 3D artists to complete complex visual effects design projects
 
@@ -95,8 +95,8 @@ Games development quality assurance tester for Electronic Arts, focusing on the 
 
 Key responsibilities and achievements:
 * Finding, reproducing, and documenting software issues and raising to the development team for technical de-bugging
-* Maintaining and updating identified issues within software bug database for management of version control
-* Validating correct inclusion of publisher and games studio legally required imagery and wording within title credits
+* Maintaining and updating identified issues within software bug database for senior developers to monitor and disseminate amongst their team to solve
+* Validating correct inclusion of publisher and games studio legally required imagery and wording within title credits for legal compliance
 
 
 
