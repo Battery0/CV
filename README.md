@@ -24,9 +24,7 @@ For a complete list, see my [GitHub repositories](https://github.com/Battery0?ta
 
 #### Project Controls Engineer - _Turner & Townsend - December 2018 to July 2020 (London, UK)_
 
-Engineering project controls consultant focusing on client-facing project planning within the transporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes. 
-
-<!-- Within the role, I utilised a balance of skills across engineering project management, milestone tracking, budget controls, and risk assessment alongside proactive communication, stakeholder management, and client-facing relationship develpment. -->
+Engineering project controls consultant focusing on client-facing project planning within the transporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes.
 
 Key responsibilities and achievements:
 * Engineering work planning and schedule management for 20+ simultaneous projects with overal budgets totalling over £20million, allowing the client improved oversight of projects to inform better decision making for senior management and improve accuracy with cost forecasting/expenditure.
@@ -67,7 +65,11 @@ Key responsibilities and achievements:
 
 #### 3D Digital Artist - _Freelance Visual Effects Artist (various companies) - January 2011 to December 2012 (London, UK)_
 
-Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'.
+Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'. 
+
+Showreel: https://vimeo.com/51433918
+
+[example website](https://vimeo.com/51433918){target="_blank"}
 
 Key responsibilities and achievements:
 * Working directly with client directors, VFX supervisor and production teams to realise the director's creative vision for the project
