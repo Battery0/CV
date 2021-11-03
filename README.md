@@ -65,11 +65,7 @@ Key responsibilities and achievements:
 
 #### 3D Digital Artist - _Freelance Visual Effects Artist (various companies) - January 2011 to December 2012 (London, UK)_
 
-Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'. 
-
-Showreel: https://vimeo.com/51433918
-
-[example website](https://vimeo.com/51433918){target="_blank"}
+Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'. Showreel link: https://vimeo.com/51433918 [Showreel link](https://vimeo.com/51433918)
 
 Key responsibilities and achievements:
 * Working directly with client directors, VFX supervisor and production teams to realise the director's creative vision for the project
