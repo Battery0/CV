@@ -13,12 +13,11 @@ I am exceptionally keen and motivated to start a new role as a junior developer 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Code4Fun](https://github.com/moby-codes/makers-final-project) | Teaching young children code concepts through themed stories and quizzes - _Makers Final Team Project_ | Javascript, React, Node, Express, MongoDB, Jest, HTML & CSS |
+| [Code4Fun](https://github.com/moby-codes/makers-final-project) | Teaching young children code concepts through themed stories and quizzes - _Makers Final Team Project_ - [Project presentation](https://www.youtube.com/watch?v=SroOXuwUyO0&t=703s) | Javascript, React, Node, Express, MongoDB, Jest, HTML & CSS |
 | [Acebook](https://github.com/Willinlondon/acebook-rails-template-simple) | A facebook clone built over a 2 week period. Sign up, log in and let the world know whats on your mind - _Team Project_ | Ruby, Ruby on Rails, Active Record, PostgresSQL, Rspec, Capybara, HTML & CSS, Heroku |
 | [Bank Tech Test](https://github.com/Battery0/bank) | An example tech test showcasing OOP, OOD, TDD and code quality - _Solo Project_ | Ruby, Rspec |
 
 For a complete list, see my [GitHub repositories](https://github.com/Battery0?tab=repositories).
-
 
 ## Work Experience
 
@@ -104,49 +103,37 @@ Key responsibilities and achievements:
 
 
 ## Skills
-<!--
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
--How was the skill used?
--What did you do? (action)
--What was the result?
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
--->
-
-
-
-
 
 #### Problem solving
-<!-- eg: OU degree(engineering is constant problem solving) Makers(constantly coming across unkown tech/ ways of doing things to get desired result) -->
+As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving the challenge of overrunning costs and project activity timescales. To tackle the problem, it was important to first assess the underlying issues which were identified as a lack of technical resource and expertise to construct detailed engineering schedules. This was addressed by continual communication with the engineering teams, resiliency with driving positive change, due to an initiall lack of willingness to change from the then, current ways of working, and attention to detail in defining their scopes of work. From this we were able to develop fully resourced detailed engineering schedules that allowed the client to see the implications of activity slippage and for senior management to utilise this visability to make strategically informed decisions that would reduce project delays and rising costs.
 
-As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving the challenge of overrunning costs and project timelines. To tackle the problem, it was important to first assess the underlying issues causing the problem, which were identified as a lack of detailed engineering project plans caused by lack of resource and technical planning expertise within the engineering teams. This was addressed by talking to the teams, defining their scopes of work, and from that, developing resourced engineering schedules that allowed the client to see the implications of task slippage and utilise this vivibility to make informed decisions and reduce project delays and rising costs.
+My ability to problem solve was also valuable at Makers. During the Acebook project, a facebook styled clone app, our group were having issues with encrypting user login passwords and storing them in the database. I took the proactive approach of spending additional time in researching documentation and working with Ruby's BCrypt gem in order to understand how to get BCrypt to work with Ruby on Rails, our framework for the project. I successfully worked out how to store encrypted passwords to the database which was consequently incorporated into the project. Additionally, I shared my new knowledge and demonstrated to the team how it worked.
 
-My ability to problem solve
+#### Communication
 
-#### Communication (working in teams, mentor, Pair Programming)
-<!-- eg: Work(always working in teams to deliver to client(s)) Makers(final project presentation*link from YT*) -->
 
+
+
+
+
+During Makers, effective, clear and concise communication was pivotal on a daily basis as well as having the ability to actively listen. The course was completed remotely due to Covid which added additional complexities in working and communicating with others. Having demonstrated successful communication by actively participating in pair programming driver/navigator roles and receiving excellent feedback from both peers and coaches who have reviewed my approach, to actively participating in project team discussions, leading and participating in standups and retros, taking on and guiding several mentees and [presenting in the final project demo day at Makers](https://youtu.be/SroOXuwUyO0?t=946) infront of 70+ people.
 
 #### Team work
-<!-- eg: Work(MoD, first proper role as consultant. Acted as part of a small specialised team) Makers(final project, acebook) -->
+<!-- eg: Work(MoD, first proper role as consultant. Acted as part of a small specialised team)-->
 
+
+
+
+
+
+The final project at Makers required me to employ exemplary team work utilising numerous related skills over the final two weeks. Learning a completely new tech stack (MERN) meant that I had to be committed to the team, in learning new tech quickly, and to the projects overall objective in order to succeed collectively. It also meant being patient and respectful as learning new tech required time and understanding on everyones part. Throughout the project it was necessarry to have collaborative reaseoned open discussion and decision making to be able to decide upon a final project idea, critically think about which features we could feasibily do in two weeks and which features needed to be left out of the MVP. Working in the team meant working collaboratively with everyone via pair programming on various aspects of both front and back end development and with being comfortable on relying on others to complete parts of the website, and being relied upon to complete my assigned tickets. By using all of these skills, we were able to implement our overall objective of designing an application that teaches young children coding concepts through fun stories and quizzes.
 
 #### Self motivated
 <!-- eg: OU degree, Taking on Makers(Self Learner) -->
 
 <!-- As a profoundly self-motivated individual, having achieved the completion of a Bachelors of Engineering (Hons) degree through the Open University long distance over 6 years working weekends and evenings only whilst in full time employment. This required an exorbitant amount sheer determination and tenacity on my part in order to complete the required learning, assignments, projects, and exams each year. This challenge would not of been surmountable if I wasn't self motivated person. The result of my ability to propel myself forward through those 6 years of working full time and doing a degree in my spare time, led me to achieve a 2:1. -->
 
-
+pushing myself to continually learn concepts in the evenings & mornings before and after Makers
 
 
 
