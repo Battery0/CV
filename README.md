@@ -65,7 +65,7 @@ Key responsibilities and achievements:
 
 #### 3D Digital Artist - _Freelance Visual Effects Artist (various companies) - January 2011 to December 2012 (London, UK)_
 
-Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'. Showreel link: https://vimeo.com/51433918 [Showreel link](https://vimeo.com/51433918)
+Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'. [Showreel link](https://vimeo.com/51433918)
 
 Key responsibilities and achievements:
 * Working directly with client directors, VFX supervisor and production teams to realise the director's creative vision for the project
@@ -92,7 +92,7 @@ Key responsibilities and achievements:
 Games development quality assurance tester for Electronic Arts, focusing on the Nintendo GameCube and Xbox 360. QA testing included AAA games within well-known franchises of _Harry Potter_, _FIFA_, _James Bond_, and _Battlefield_.
 
 Key responsibilities and achievements:
-* Finding, reproducing, and documenting software issues and raising to the development team for technical de-bugging
+* Testing end user experience and finding, reproducing, and documenting software issues raised to the development team for technical de-bugging
 * Maintaining and updating identified issues within software bug database for senior developers to monitor and disseminate amongst their team to fix
 * Validating correct inclusion of publisher and games studio legally required imagery and wording within title credits for legal compliance
 
@@ -131,7 +131,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving the challenge of overrunning costs and project timelines. To tackle the problem, it was important to first assess the underlying issues causing the problem, which were identified as a lack of detailed engineering project plans caused by lack of resource and technical planning expertise within the engineering teams. This was addressed by talking to the teams, defining their scopes of work, and from that, developing resourced engineering schedules that allowed the client to see the implications of task slippage and utilise this vivibility to make informed decisions and reduce project delays and rising costs.
 
-Another paragraph for something Makers related?
+My ability to problem solve
 
 #### Communication (working in teams, mentor, Pair Programming)
 <!-- eg: Work(always working in teams to deliver to client(s)) Makers(final project presentation*link from YT*) -->
@@ -146,31 +146,6 @@ Another paragraph for something Makers related?
 
 <!-- As a profoundly self-motivated individual, having achieved the completion of a Bachelors of Engineering (Hons) degree through the Open University long distance over 6 years working weekends and evenings only whilst in full time employment. This required an exorbitant amount sheer determination and tenacity on my part in order to complete the required learning, assignments, projects, and exams each year. This challenge would not of been surmountable if I wasn't self motivated person. The result of my ability to propel myself forward through those 6 years of working full time and doing a degree in my spare time, led me to achieve a 2:1. -->
 
-
-
-<!--Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
--STAR
--What was the situation/task? (ST)
--How was the skill used?
--What did you do? (action)
--What was the result?-->
-
-
-
-
-#### Additional Skills
-* Fast Learner (adaptable)
-* Tenacity
-* Resilient
-* Attention to detail
-* Time management (meet deadlines, project management)
-* Resilient
-* Creative
 
 
 
