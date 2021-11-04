@@ -119,7 +119,6 @@ My ability to problem solve was also valuable at Makers. During the Acebook proj
 During Makers, effective, clear and concise communication was pivotal on a daily basis as well as having the ability to actively listen. The course was completed remotely due to Covid which added additional complexities in working and communicating with others. Having demonstrated successful communication by actively participating in pair programming driver/navigator roles and receiving excellent feedback from both peers and coaches who have reviewed my approach, to actively participating in project team discussions, leading and participating in standups and retros, taking on and guiding several mentees and [presenting in the final project demo day at Makers](https://youtu.be/SroOXuwUyO0?t=946) infront of 70+ people.
 
 #### Team work
-<!-- eg: Work(MoD, first proper role as consultant. Acted as part of a small specialised team)-->
 
 
 
@@ -129,17 +128,9 @@ During Makers, effective, clear and concise communication was pivotal on a daily
 The final project at Makers required me to employ exemplary team work utilising numerous related skills over the final two weeks. Learning a completely new tech stack (MERN) meant that I had to be committed to the team, in learning new tech quickly, and to the projects overall objective in order to succeed collectively. It also meant being patient and respectful as learning new tech required time and understanding on everyones part. Throughout the project it was necessarry to have collaborative reaseoned open discussion and decision making to be able to decide upon a final project idea, critically think about which features we could feasibily do in two weeks and which features needed to be left out of the MVP. Working in the team meant working collaboratively with everyone via pair programming on various aspects of both front and back end development and with being comfortable on relying on others to complete parts of the website, and being relied upon to complete my assigned tickets. By using all of these skills, we were able to implement our overall objective of designing an application that teaches young children coding concepts through fun stories and quizzes.
 
 #### Self motivated
-<!-- eg: OU degree, Taking on Makers(Self Learner) -->
+As a profoundly self-motivated individual, having completed a part time long distance Bachelors of Engineering (Hons) degree through the Open University over 6 years, working evenings and weekends whilst in full time employment, required an exorbitant amount of drive and determination in order to complete all required learning, assignments, projects, and exams each year. This challenge would not of been surmountable without these innate skills, which resulted in achieving a 2:1 grade.
 
-<!-- As a profoundly self-motivated individual, having achieved the completion of a Bachelors of Engineering (Hons) degree through the Open University long distance over 6 years working weekends and evenings only whilst in full time employment. This required an exorbitant amount sheer determination and tenacity on my part in order to complete the required learning, assignments, projects, and exams each year. This challenge would not of been surmountable if I wasn't self motivated person. The result of my ability to propel myself forward through those 6 years of working full time and doing a degree in my spare time, led me to achieve a 2:1. -->
-
-pushing myself to continually learn concepts in the evenings & mornings before and after Makers
-
-
-
-
-
-
+At Makers, self motivation is essential. I took the initiative early on and continually strived to learn new concepts, techniques and technologies, often by taking time before and after Makers normal hours. Having set weekly goals in order to plan what to learn each week also led to having a sense of accomplishment, a key factor for staying motivated. Being resilient and having a growth mindset was fundamental in order to get past blockers and to continue to learn, whilst also seeking feedback from coaches on written code and ways to improve which I adopted as I continued. This has enabled me to have a good foundational knowledge on essential programming concepts and has better equiped me to deal with solving programming challenges.
 
 
 ## Education
