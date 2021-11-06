@@ -91,15 +91,9 @@ Key responsibilities and achievements:
 Games development quality assurance tester for Electronic Arts, focusing on the Nintendo GameCube and Xbox 360. QA testing included AAA games within well-known franchises of _Harry Potter_, _FIFA_, _James Bond_, and _Battlefield_.
 
 Key responsibilities and achievements:
-* Testing end user experience and finding, reproducing, and documenting software issues raised to the development team for technical de-bugging
+* Testing end user experience to discover, reproduce, and document software issues to be raised to the development team for technical de-bugging
 * Maintaining and updating identified issues within software bug database for senior developers to monitor and disseminate amongst their team to fix
 * Validating correct inclusion of publisher and games studio legally required imagery and wording within title credits for legal compliance
-
-
-
-
-
-
 
 
 ## Skills
@@ -109,23 +103,10 @@ As a project engineering consultant with the Ministry of Defence (MoD) submarine
 
 My ability to problem solve was also valuable at Makers. During the Acebook project, a facebook styled clone app, our group were having issues with encrypting user login passwords and storing them in the database. I took the proactive approach of spending additional time in researching documentation and working with Ruby's BCrypt gem in order to understand how to get BCrypt to work with Ruby on Rails, our framework for the project. I successfully worked out how to store encrypted passwords to the database which was consequently incorporated into the project. Additionally, I shared my new knowledge and demonstrated to the team how it worked.
 
-#### Communication
+#### Communication and Team work
+Working as a liason between Highways England and a construction engineering corsortium to carry out schedule assurance on the monthly formal submission of progression on over 30 simultaneous live construction projects. This required continuous communication and working as a team with varying seniority levels, departments and several different organisations to confirm realistic engineering project progress, raise issues to Highways England and to mitigate risks to project delivery dates. By fostering and developing relationships with key members of Highways England and the construction consortium and through working as a team, I was able to successfully carry out schedule assure on the behalf of Highways England. This enabled projects to be kept on schedule, or, for Highways England to agree approaches to mitigate delays to project completion dates.
 
-
-
-
-
-
-During Makers, effective, clear and concise communication was pivotal on a daily basis as well as having the ability to actively listen. The course was completed remotely due to Covid which added additional complexities in working and communicating with others. Having demonstrated successful communication by actively participating in pair programming driver/navigator roles and receiving excellent feedback from both peers and coaches who have reviewed my approach, to actively participating in project team discussions, leading and participating in standups and retros, taking on and guiding several mentees and [presenting in the final project demo day at Makers](https://youtu.be/SroOXuwUyO0?t=946) infront of 70+ people.
-
-#### Team work
-
-
-
-
-
-
-The final project at Makers required me to employ exemplary team work utilising numerous related skills over the final two weeks. Learning a completely new tech stack (MERN) meant that I had to be committed to the team, in learning new tech quickly, and to the projects overall objective in order to succeed collectively. It also meant being patient and respectful as learning new tech required time and understanding on everyones part. Throughout the project it was necessarry to have collaborative reaseoned open discussion and decision making to be able to decide upon a final project idea, critically think about which features we could feasibily do in two weeks and which features needed to be left out of the MVP. Working in the team meant working collaboratively with everyone via pair programming on various aspects of both front and back end development and with being comfortable on relying on others to complete parts of the website, and being relied upon to complete my assigned tickets. By using all of these skills, we were able to implement our overall objective of designing an application that teaches young children coding concepts through fun stories and quizzes.
+The final project at Makers required me to employ exemplary team work and communication, utilising numerous related skills over the final two weeks. Learning a completely new tech stack (MERN) meant that I had to be committed to the team, in learning new tech quickly, and to the projects overall objective in order to succeed collectively. It also meant being patient and respectful as learning new tech required time and understanding on everyones part. Throughout the project it was necessarry to have collaborative reaseoned open discussion and decision making to be able to decide upon a final project idea, critically think about which features we could feasibily do in two weeks and which features needed to be left out of the MVP. Working in the team meant working collaboratively with everyone via pair programming on various aspects of both front and back end development and with being comfortable on relying on others to complete parts of the website, and being relied upon to complete my assigned tickets. By using all of these skills, we were able to implement our overall objective of designing an application that teaches young children coding concepts through fun stories and quizzes.
 
 #### Self motivated
 As a profoundly self-motivated individual, having completed a part time long distance Bachelors of Engineering (Hons) degree through the Open University over 6 years, working evenings and weekends whilst in full time employment, required an exorbitant amount of drive and determination in order to complete all required learning, assignments, projects, and exams each year. This challenge would not of been surmountable without these innate skills, which resulted in achieving a 2:1 grade.
@@ -136,31 +117,14 @@ At Makers, self motivation is essential. I took the initiative early on and cont
 ## Education
 
 #### Makers Academy (June 2021 - October 2021)
-_To do._
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
-
-<!-- 
-Domain modelling
-Wireframing
-REST
-mentor
--->
-
 A 16 week full time software development bootcamp that composed of self-led learning, pair programming, group projects and coach driven workshops. Key areas of focus were:
-* Agile methodologies - stand ups, retros
-* Object Orientated Design (OOD) - 
-* Object Orientated Programming (OOP) - 
-* The MVC website design pattern
-* Test Driven Development (TDD) and Behaviour Driven Development (BDD) - 
-* Pair programming and group projects - 
-* Tech stack - Ruby, Rails, Sinatra, JavaScript, Node, Express, PostgresSQL, RSpec, Capybara, Jasmine and Jest
-* Code quality
+
+* Working to strict deadlines to deliver and present multiple team based projects
+* Learning to effectively plan software projets through object orientated design, wireframing, domain modelling, DB schema sketching, entity relationship diagrams and creating user stories and tickets
+* Using effective team work and communication whilst participating in daily pair programming sessions, team based projects, and leading / participating in stand ups and retros
+* Utilising best practices to problem solve and debug software
+* Attention to detail to produce quality code in a TDD/BDD OOP style. Adhearing to seperation of concerns and the single responsibility principle to develop classes and methods/functions
+* Languages & tech - Ruby, Rails, Sinatra, JavaScript, Node, Express, PostgresSQL, RSpec, Capybara, Jasmine, Jest and Heroku
 
 
 #### The Open University (2015 - 2020)
@@ -169,7 +133,6 @@ Bachelor of Engineering (Hons) 2:1. A 6-year long distance learning degree with 
 * Degree path focusing on Engineering Design, encompassing technical problem solving, mathematics, chemistry, physics, product innovation and design, structural analysis, materials, mechanics, environmental management, energy and sustainability
 * Final project technical report, 'Novel Product Design To Load Dogs With Limited Mobility Into Car Boots', that aimed to solve a real problem that can be solved using the application of engieering principles and technologies. It incorporated product and user research, user stories, literatire review, setting project objectives and methodologies,  product idea generation and concept design creations, engineering design and analysis, structural analysis and mechanics, materials analysis and selection and critical evaluation and conclusion
 * Accredited degree with the prestigious Institution of Mechanical Engineers (IMechE)
-
 
 #### SAE Institute (2006 - 2007)
 Visual Effects 3D Modelling and Animation
