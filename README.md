@@ -98,49 +98,49 @@ Key responsibilities and achievements:
 
 ## Skills
 
-#### Problem solving
-As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving the challenge of overrunning costs and project activity timescales. To tackle the problem, it was important to first assess the underlying issues which were identified as a lack of technical resource and expertise to construct detailed engineering schedules. This was addressed by continual communication with the engineering teams, resiliency with driving positive change, due to an initiall lack of willingness to change from the then, current ways of working, and attention to detail in defining their scopes of work. From this we were able to develop fully resourced detailed engineering schedules that allowed the client to see the implications of activity slippage and for senior management to utilise this visability to make strategically informed decisions that would reduce project delays and rising costs.
+#### Problem-solving
+As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving overrunning costs and project activity timescales. I approached the problem by identifying the underlying causes (lack of technical resource and expertise to construct detailed engineering schedules) and implementing solutions to address the challenges (defining scopes of work, developing fully-resourced and detailed engineering scheduled, improving communication, and training the engineering teams to take over these activities).
 
-My ability to problem solve was also valuable at Makers. During the Acebook project, a facebook styled clone app, our group were having issues with encrypting user login passwords and storing them in the database. I took the proactive approach of spending additional time in researching documentation and working with Ruby's BCrypt gem in order to understand how to get BCrypt to work with Ruby on Rails, our framework for the project. I successfully worked out how to store encrypted passwords to the database which was consequently incorporated into the project. Additionally, I shared my new knowledge and demonstrated to the team how it worked.
+During the Acebook project at Makers (a Facebook-styled clone app), our group experienced challenges implementing encypted password storage to the database. To solve the problem, I researed and identified an excryption method (BCrypt) capable of working with our project framework (Ruby on Rails) and incorporated the technical solution into the project. To ensure members of the group did not run into this challenge in future, I also shared this knowledge with the team and demonstrated how it worked.
 
-#### Communication and Team work
+#### Communication and Team Work
 Working as a liason between Highways England and a construction engineering corsortium to carry out schedule assurance on the monthly formal submission of progression on over 30 simultaneous live construction projects. This required continuous communication and working as a team with varying seniority levels, departments and several different organisations to confirm realistic engineering project progress, raise issues to Highways England and to mitigate risks to project delivery dates. By fostering and developing relationships with key members of Highways England and the construction consortium and through working as a team, I was able to successfully carry out schedule assure on the behalf of Highways England. This enabled projects to be kept on schedule, or, for Highways England to agree approaches to mitigate delays to project completion dates.
 
 The final project at Makers required me to employ exemplary team work and communication, utilising numerous related skills over the final two weeks. Learning a completely new tech stack (MERN) meant that I had to be committed to the team, in learning new tech quickly, and to the projects overall objective in order to succeed collectively. It also meant being patient and respectful as learning new tech required time and understanding on everyones part. Throughout the project it was necessarry to have collaborative reaseoned open discussion and decision making to be able to decide upon a final project idea, critically think about which features we could feasibily do in two weeks and which features needed to be left out of the MVP. Working in the team meant working collaboratively with everyone via pair programming on various aspects of both front and back end development and with being comfortable on relying on others to complete parts of the website, and being relied upon to complete my assigned tickets. By using all of these skills, we were able to implement our overall objective of designing an application that teaches young children coding concepts through fun stories and quizzes.
 
-#### Self motivated
-As a profoundly self-motivated individual, having completed a part time long distance Bachelors of Engineering (Hons) degree through the Open University over 6 years, working evenings and weekends whilst in full time employment, required an exorbitant amount of drive and determination in order to complete all required learning, assignments, projects, and exams each year. This challenge would not of been surmountable without these innate skills, which resulted in achieving a 2:1 grade.
+#### Self-motivation and Self-Learning
+In order to complete a Bachelors of Engineering (Hons) degree through the Open University, I maintained a 6-year long dedication to self-directed learning, studying 20-30 hours per week in addition to full-time employment. This required sustaining a highly self-motivated drive and determination to complete all required learning, assignments, projects, and exams each year and resulted in achieving a 2:1 grade.
 
-At Makers, self motivation is essential. I took the initiative early on and continually strived to learn new concepts, techniques and technologies, often by taking time before and after Makers normal hours. Having set weekly goals in order to plan what to learn each week also led to having a sense of accomplishment, a key factor for staying motivated. Being resilient and having a growth mindset was fundamental in order to get past blockers and to continue to learn, whilst also seeking feedback from coaches on written code and ways to improve which I adopted as I continued. This has enabled me to have a good foundational knowledge on essential programming concepts and has better equiped me to deal with solving programming challenges.
+The Makers intensive programming bootcamp relies on , I  strived to learn new concepts, techniques and technologies, often by taking time before and after Makers normal hours. Having set weekly goals in order to plan what to learn each week also led to having a sense of accomplishment, a key factor for staying motivated. Being resilient and having a growth mindset was fundamental in order to get past blockers and to continue to learn, whilst also seeking feedback from coaches on written code and ways to improve which I adopted as I continued. This has enabled me to have a good foundational knowledge on essential programming concepts and has better equiped me to deal with solving programming challenges.
 
 
 ## Education
 
 #### Makers Academy (June 2021 - October 2021)
-A 16 week full time software development bootcamp that composed of self-led learning, pair programming, group projects and coach driven workshops. Key areas of focus were:
-
-* Working to strict deadlines to deliver and present multiple team based projects
-* Learning to effectively plan software projets through object orientated design, wireframing, domain modelling, DB schema sketching, entity relationship diagrams and creating user stories and tickets
-* Using effective team work and communication whilst participating in daily pair programming sessions, team based projects, and leading / participating in stand ups and retros
+A 16-week full-time software development bootcamp composed of self-led learning, paired programming, group projects, and coach-driven workshops.
+* Working to strict deadlines to deliver and present multiple team-based projects
+* Learning to effectively plan and implement software projets through object-orientated design, wireframing, domain modelling, DB schema sketching, entity relationship diagrams, user stories, tickets, team work, daily paired programming, communication, stand-ups, and retros
 * Utilising best practices to problem solve and debug software
-* Attention to detail to produce quality code in a TDD/BDD OOP style. Adhearing to seperation of concerns and the single responsibility principle to develop classes and methods/functions
-* Languages & tech - Ruby, Rails, Sinatra, JavaScript, Node, Express, PostgresSQL, RSpec, Capybara, Jasmine, Jest and Heroku
+* Ensuring attention to detail to produce quality code in a TDD/BDD OOP style and adhearing to seperation of concerns and the single responsibility principle to develop classes and methods/functions
+* Mentoring new Makers students by providing guidance and 1:1 support
+* Languages & tech - Ruby, Rails, Sinatra, JavaScript, Node, Express, PostgresSQL, RSpec, Capybara, Jasmine, Jest, and Heroku
 
 
 #### The Open University (2015 - 2020)
-
-Bachelor of Engineering (Hons) 2:1. A 6-year long distance learning degree with university campus visits for practical engineering lab-based work
-* Degree path focusing on Engineering Design, encompassing technical problem solving, mathematics, chemistry, physics, product innovation and design, structural analysis, materials, mechanics, environmental management, energy and sustainability
-* Final project technical report, 'Novel Product Design To Load Dogs With Limited Mobility Into Car Boots', that aimed to solve a real problem that can be solved using the application of engieering principles and technologies. It incorporated product and user research, user stories, literatire review, setting project objectives and methodologies,  product idea generation and concept design creations, engineering design and analysis, structural analysis and mechanics, materials analysis and selection and critical evaluation and conclusion
+Bachelor of Engineering (Hons) 2:1. A 6-year remote learning degree with university campus visits for practical engineering lab-based work.
+* Degree path focusing on Engineering Design, encompassing technical problem solving, mathematics, chemistry, physics, product innovation and design, structural analysis, materials, mechanics, environmental management, energy, and sustainability
+* Final technical report project, entitled 'Novel Product Design To Load Dogs With Limited Mobility Into Car Boots', aiming to solve a real problem through application of engieering principles and technologies and incorporating product and user research, user stories, literature review, setting project objectives and methodologies,  product idea generation and concept design creations, engineering design and analysis, structural analysis and mechanics, materials analysis and selection, and critical evaluation and conclusion
 * Accredited degree with the prestigious Institution of Mechanical Engineers (IMechE)
 
 #### SAE Institute (2006 - 2007)
-Visual Effects 3D Modelling and Animation
-A course that comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality.
+Visual Effects 3D Modelling and Animation course comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality.
+
+#### Portsmouth (2015 - 2020)
+Bachelor of Engineering (Hons) 2:1. A 6-year remote learning degree with university campus visits for practical engineering lab-based work.
+* Degree path focusing on Engineering Design, encompassing technical problem solving, mathematics, chemistry, physics, product innovation and design, structural analysis, materials, mechanics, environmental management, energy, and sustainability
 
 
 ## Interests and Hobbies
-* Technology (computing, engineering, science) - I have alaways been fascinated with technology from an early age. From constructing lego sets in my formative years, working on complex engineering projects professionaly, to learning to code
-* Building computers - Having built numerous full desktop computers over the years, which I enjoy, I also thoroughly enjoy researching and keeping up-to-date with the latest and greatest technologies
-* Board games - As a keen board game player thats owns far to many to count, I love to play with friends and family and really enjoy the social interactions board games bring with them. I also play D&D with a group of friends on a bi weekly basis
-* Video games - Being a keen PC gamer for several decades, I thoroughly enjoy well crafted RPGs (Witcher, Elder Scrolls), strategy (Stellaris), and action games (Tomb Raider, Dark Souls). Although finding time can be difficult!
+* Building computers - I enjoy building my own desktop computers, researching hardware, and keeping up-to-date with the latest technologies
+* Board games - My collection of board games includes far too many to count, and I love the social interaction with friends and family that comes from playing a game together
+* Video games - As a keen PC gamer for several decades, I thoroughly enjoy well-crafted role-playing (Witcher, Elder Scrolls), strategy (Stellaris), and action games (Tomb Raider, Dark Souls), although finding time can be difficult!
