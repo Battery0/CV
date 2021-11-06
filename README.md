@@ -62,7 +62,7 @@ Key responsibilities and achievements:
 * Led lessons learned exercise with project team in conjunction with risk management. Highlighting areas to the project team where growth and improvement could occur
 
 
-#### 3D Digital Artist - _Freelance Visual Effects Artist (various companies) - January 2011 to December 2012 (London, UK)_
+#### 3D Digital Artist - _Freelance Visual Effects Artist (various companies) - January 2011 to March 2013 (London, UK)_
 
 Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'. [Showreel link](https://vimeo.com/51433918)
 
@@ -136,11 +136,11 @@ Bachelor of Engineering (Hons) 2:1. A 6-year long distance learning degree with 
 
 #### SAE Institute (2006 - 2007)
 Visual Effects 3D Modelling and Animation
-Course that comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality.
+A course that comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality.
 
 
 ## Interests and Hobbies
-* Technology (computing, engineering, science)
-* Building computers
-* Board games
-* Video games
+* Technology (computing, engineering, science) - I have alaways been fascinated with technology from an early age. From constructing lego sets in my formative years, working on complex engineering projects professionaly, to learning to code
+* Building computers - Having built numerous full desktop computers over the years, which I enjoy, I also thoroughly enjoy researching and keeping up-to-date with the latest and greatest technologies
+* Board games - As a keen board game player thats owns far to many to count, I love to play with friends and family and really enjoy the social interactions board games bring with them. I also play D&D with a group of friends on a bi weekly basis
+* Video games - Being a keen PC gamer for several decades, I thoroughly enjoy well crafted RPGs (Witcher, Elder Scrolls), strategy (Stellaris), and action games (Tomb Raider, Dark Souls). Although finding time can be difficult!
