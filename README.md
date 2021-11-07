@@ -26,39 +26,35 @@ For a complete list, see my [GitHub repositories](https://github.com/Battery0?ta
 Engineering project controls consultant focusing on client-facing project planning within the transporation sector. Projects included Heathrow rail upgrade initiatives and Highways England construction programmes.
 
 Key responsibilities and achievements:
-* Engineering work planning and schedule management for 20+ simultaneous projects with overal budgets totalling over £20million, allowing the client improved oversight of projects to inform better decision making for senior management and improve accuracy with cost forecasting/expenditure.
-* Identification, analysis, and communication of project timeline and budget risks to the client to highlight causes for concern and to take proactive decision making to avoid project overspend and delays
-* Detailed tracking and updating of hundreds of engineering activities and milestones per project
-* Complex stakeholder management of client teams, external contractors, and internal senior management which led to improved relationships, client satisfaction and oppened up additional work opprtunities.
-* Carried out schedule assurance on supplier’s monthly updated schedules to ensure quality, progress and time. This assured senior client management that the contractor schedules were accurate and project milestone dates were adheared to
-* Develop and document procedures and manuals for handover to client following project completion
+* Engineering work planning and schedule management for 20+ simultaneous projects with overall budgets totalling over £20million, allowing the client improved oversight, senior management decision-making, and accuracy with cost forecasting/expenditure
+* Detailed tracking and updating of hundreds of engineering activities and milestones per project, including dentification, analysis, and communication of project timeline and budget risks
+* Management of stakeholder communication with client teams, external contractors, and internal senior management, leading to improved relationships, client satisfaction, and additional business development opprtunities
+* Execution of schedule assurance on suppliers' monthly updated schedules to ensure quality, progress, and timeliness, ensuring client confidence in accurate and achieveable contractor schedules and project milestone dates
+* Development of technical documentation for handover to client following project completion
 
 
 #### Planning and Project Controls Engineer - _Jacobs / CH2M - February 2016 to July 2018 (Bristol and London, UK)_
 
-Project planning and controls engineer within the defence, infrastructure and transportation sectors. Projects included Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
+Project planning and controls engineer within the defence, infrastructure, and transportation sectors. Projects included Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
 
 Key responsibilities and achievements:
-* Develop project schedule, baseline, activity logic, milestones and resources in conjunction with client project manager to construct an accurate project activity timeline to enable reliable tracking of project progression and enable identification of activity slippages that may impact key milestone dates and/or costs
-* Monthly progression, monitoring and issue of activity updates against baseline schedule and coordination with Project Management team which allowed accurate reporting of project progress to the client
-* Analysis of critical path, float erosion, activity progression and comparison against project plan baseline to identify any activity slippage and potential cost impact, whereby appropriate action could be taken by senior management to rectify slippages
-* Development of ‘what if’ schedule scenarios based on Compensation Events before formal client agreement. This allowed senior management to decide which route to take and plan out the engineering activities required before engaging the client to agree and sign off
-* Extensive communication with senior client management and engineering teams for buy-in and support of the development of the programmes schedules. Agreement across all teams was essential to ensure schedule robustness, accuracy and adherence
-* Creation and development of multiple engineering functional scopes of work, schedules, basis of estimates, and staffing plans to help inform and support project schedule establishment
-* Produce project controls documentation and planning work instructions to develop client project controls capability
+* Creation, management, and analysis of project schedules, functional scopes of work, basis of estimates, staffing plans, baselines, activity logic, and milestones in conjunction with client project managers to construct accurate project activity timelines, enable reliable tracking of project progression, and identify activity slippages that may impact key milestone dates and/or costs
+* Development of ‘what if’ planning proposals to address project scope change as a result of Compensation Events and presentation to the client for agreement and sign-off
+* Development of collaborative relationships with client engineering teams to achieve buy-in and support for schedule development, requiring on-going communication and agreement across all teams to ensure schedule robustness, accuracy and adherence
+* Production of project controls documentation and planning work instructions to develop client project controls capability
 
 
 #### Junior Project Engineer - _AMEC Foster Wheeler - April 2013 to December 2015 (London, UK)_
 
-Junior project engineer within the oil and gas sector working on large scale engineering refinery projects with budgets of $15-$25 billion. Client projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
+Junior project engineer within the oil and gas sector, working on large-scale engineering refinery projects with budgets of $15-$25 billion. Client projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
 
 Key responsibilities and achievements:
-* Management of Amec Foster Wheeler’s role and responsibilities in relation to the client for BP technical standardisation. Direct communication with senior BP management ensuring timely turnaround of technical reviews on behalf of AMEC. This resulted in AMEC and myself receiving excellent feedback from BP
-* Establishment of budget, resource availability and subsequent monitoring of expenditure supported by cost engineering to enable accurate tracking of project costs by the contract manager
+* Management of Amec Foster Wheeler’s role and responsibilities in relation to BP technical standardisation, including direct communication with BP senior management to ensure timely turnaround of technical reviews on behalf of AMEC
+* Establishment of budget, resource availability, and monitoring of expenditure to enable accurate tracking of project costs by the contract manager
 * Providing assistance with tender technical bidder queries ensuring clients received a timely turnaround
-* Supporting senior management with creation of client weekly reports, including status updates from engineering disciplines on planned, forecast, and actual issue of deliverables. Led the client to keep up-to-date with all the latest technical deliverables
+* Support of senior management with creation of client weekly reports, including status updates from engineering disciplines on planned, forecast, and actual issue of deliverables. Led the client to keep up-to-date with all the latest technical deliverables
 * Management of technical proposal documentation, including front end engineering design document register against progressive issue of invitation to tender deliverables within SharePoint. Allowing client project bidders to formulate accurate bids for the work to be carried out
-* Coordination of weekly engineering document status report, including technical design drawings issued. Enabling the client to keep up-to-date with project progress and supplying them with the most up-to-date technical drawings
+* Coordination of weekly engineering document status reports, including technical design drawings issued. Enabling the client to keep up-to-date with project progress and supplying them with the most up-to-date technical drawings
 * Led lessons learned exercise with project team in conjunction with risk management. Highlighting areas to the project team where growth and improvement could occur
 
 
