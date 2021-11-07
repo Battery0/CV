@@ -49,60 +49,47 @@ Key responsibilities and achievements:
 Junior project engineer within the oil and gas sector, working on large-scale engineering refinery projects with budgets of $15-$25 billion. Client projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
 
 Key responsibilities and achievements:
-* Management of Amec Foster Wheeler’s role and responsibilities in relation to BP technical standardisation, including direct communication with BP senior management to ensure timely turnaround of technical reviews on behalf of AMEC
 * Establishment of budget, resource availability, and monitoring of expenditure to enable accurate tracking of project costs by the contract manager
-* Providing assistance with tender technical bidder queries ensuring clients received a timely turnaround
-* Support of senior management with creation of client weekly reports, including status updates from engineering disciplines on planned, forecast, and actual issue of deliverables. Led the client to keep up-to-date with all the latest technical deliverables
-* Management of technical proposal documentation, including front end engineering design document register against progressive issue of invitation to tender deliverables within SharePoint. Allowing client project bidders to formulate accurate bids for the work to be carried out
-* Coordination of weekly engineering document status reports, including technical design drawings issued. Enabling the client to keep up-to-date with project progress and supplying them with the most up-to-date technical drawings
-* Led lessons learned exercise with project team in conjunction with risk management. Highlighting areas to the project team where growth and improvement could occur
+* Support of senior management with creation of client weekly reports, including status updates from engineering disciplines on planned, forecast, and actual issue of deliverables
+* Management of technical proposal documentation, including front end engineering design document register against progressive issue of invitation to tender deliverables within SharePoint, alllowing client project bidders to formulate accurate bids for the work to be carried out
+* Coordination of weekly engineering document status reports, including technical design drawings issued, enabling the client to keep up-to-date with project progress and supplying them with the most current technical drawings
+* Leadership of lessons-learned exercises with project team in conjunction with risk management, highlighting areas to the project team where growth and improvement could occur
 
 
-#### 3D Digital Artist - _Freelance Visual Effects Artist (various companies) - January 2011 to March 2013 (London, UK)_
+#### 3D Digital Artist - _Freelance/Contractor (various companies) - July 2008 to March 2013 (London, UK)_
 
-Freelance 3D Artist creating visual effects for high profile projects within broadcast and film. Key projects included BBC's 'Generation Earth', Sky's 'David Attenborough's Kingdom of Plants 3D', and The History Channels 'Mankind: the Story of Us'. [Showreel link](https://vimeo.com/51433918)
+3D artist creating visual effects for high profile projects within broadcast and film. Key projects included Paramount Pictures _G.I. Joe: The Rise of Cobra_, Walt Disney Studios _Prince of Persia: The Sands of Time_, and BBC _Generation Earth_, and Cadbury 'Spots vs. Stripes' London Olympics ad campaign. [Showreel link](https://vimeo.com/51433918)
 
 Key responsibilities and achievements:
-* Working directly with client directors, VFX supervisor and production teams to realise the director's creative vision for the project
-* Creation and rendering of photo realistic 3D assets, environments and shots encompassing 3D modelling, texturing, sculpting, shading, and lighting to produce realistic shots
+* Working directly with client directors, VFX supervisors, and production teams to realise the director's creative vision for the project
+* Creation and rendering of photo realistic 3D assets, environments, and shots encompassing 3D modelling, texturing, sculpting, shading, and lighting to produce realistic shots
 * Collaborative leadership of multi-disciplinary teams and mentoring of junior artists
-* Technical problem solving to address challenges with 3D rendering and modelling to allow shots to be completed
+* Technical problem-solving to address challenges with 3D rendering and modelling to allow shots to be completed
 * Managing shot workload in order to meet deadlines and exceed client requirements
 * Continual self-led development of 3D skills to keep pace with changing technologies
 
 
-#### 3D Digital Artist - _Moving Picture Company - July 2008 to November 2010 (London, UK)_
-
-Junior 3D Artist within the MPC commercial and film departments, building high quality 3D assets for client projects, including Cadburys 'Spots vs. Stripes' London Olympics ad campaign, Paramount Pictures _G.I. Joe: The Rise of Cobra_, and Walt Disney Studios _Prince of Persia: The Sands of Time_.
-
-Key responsibilities and achievements:
-* Collaborating with clients to produce previsualisation of options for potential shot direction allowing the client to decide on a shot direction
-* Modelling and texturing of film and broadcast visual effects 3D assets for realistic shots
-* Managing assigned workload in order to meet critical client deadlines for airing of commercials and films
-* Working within teams of 3D artists to complete complex visual effects design projects
-
-
 #### QA Tester - _Electronic Arts - December 2007 to June 2008 (Chertsey, UK)_
 
-Games development quality assurance tester for Electronic Arts, focusing on the Nintendo GameCube and Xbox 360. QA testing included AAA games within well-known franchises of _Harry Potter_, _FIFA_, _James Bond_, and _Battlefield_.
+Games development quality assurance tester, focusing on the Nintendo GameCube and Xbox 360. QA testing included AAA games within well-known franchises of _Harry Potter_, _FIFA_, _James Bond_, and _Battlefield_.
 
 Key responsibilities and achievements:
-* Testing end user experience to discover, reproduce, and document software issues to be raised to the development team for technical de-bugging
-* Maintaining and updating identified issues within software bug database for senior developers to monitor and disseminate amongst their team to fix
-* Validating correct inclusion of publisher and games studio legally required imagery and wording within title credits for legal compliance
+* Testing end user experience to discover, reproduce, and document software issues to be raised to the development team for technical debugging
+* Maintaining and updating identified issues within software bug database for senior developers to monitor and disseminate amongst their team for correction
+* Validating correct inclusion of publisher and games studio legally-required imagery and wording within title credits for legal compliance
 
 
 ## Skills
 
 #### Problem-solving
-As a project engineering consultant with the Ministry of Defence (MoD) submarine operating centre, I was tasked with solving overrunning costs and project activity timescales. I approached the problem by identifying the underlying causes (lack of technical resource and expertise to construct detailed engineering schedules) and implementing solutions to address the challenges (defining scopes of work, developing fully-resourced and detailed engineering scheduled, improving communication, and training the engineering teams to take over these activities).
+As a project engineering consultant with the UK Ministry of Defence (MoD) submarine operating centre, I was tasked with solving overrunning costs and project activity timescales. I approached the problem by identifying the underlying causes (lack of technical resource and expertise to construct detailed engineering schedules) and implementing solutions to address the challenges (defining scopes of work, developing fully-resourced and detailed engineering scheduled, improving communication, and training the engineering teams to take over these activities).
 
-During the Acebook project at Makers (a Facebook-styled clone app), our group experienced challenges implementing encypted password storage to the database. To solve the problem, I researed and identified an excryption method (BCrypt) capable of working with our project framework (Ruby on Rails) and incorporated the technical solution into the project. To ensure members of the group did not run into this challenge in future, I also shared this knowledge with the team and demonstrated how it worked.
+During the Acebook project at Makers (a Facebook-styled clone app), our group experienced challenges implementing encypted password storage to the database. To solve the problem, I researched, identified, and implemented an excryption method (BCrypt) capable of working with our project framework (Ruby on Rails). To ensure members of the group did not run into this challenge in future, I also shared this knowledge with the team and demonstrated how it worked.
 
 #### Communication and Team Work
-Working as a liason between Highways England and a construction engineering corsortium to carry out schedule assurance on the monthly formal submission of progression on over 30 simultaneous live construction projects. This required continuous communication and working as a team with varying seniority levels, departments and several different organisations to confirm realistic engineering project progress, raise issues to Highways England and to mitigate risks to project delivery dates. By fostering and developing relationships with key members of Highways England and the construction consortium and through working as a team, I was able to successfully carry out schedule assure on the behalf of Highways England. This enabled projects to be kept on schedule, or, for Highways England to agree approaches to mitigate delays to project completion dates.
+Successfully completing the final two-week group project at Makers required a committment to team work, communication, and building ways to work together within a high-pressure scenario in order to achieve a common goal. We collaborated via open discussions and critical thinking to determine the project focus and MVP features and utilised paired programming for front and back end development in order to support each other in learning and building within a new tech stack (MERN). We also cultivated patience, respect, and trust between group members, which was critical to the ability to rely on each other to complete different areas of the project. By using all of these skills, we succeeded collectively and implemented our overall objective of designing an application to teach young children coding concepts through fun stories and quizzes.
 
-The final project at Makers required me to employ exemplary team work and communication, utilising numerous related skills over the final two weeks. Learning a completely new tech stack (MERN) meant that I had to be committed to the team, in learning new tech quickly, and to the projects overall objective in order to succeed collectively. It also meant being patient and respectful as learning new tech required time and understanding on everyones part. Throughout the project it was necessarry to have collaborative reaseoned open discussion and decision making to be able to decide upon a final project idea, critically think about which features we could feasibily do in two weeks and which features needed to be left out of the MVP. Working in the team meant working collaboratively with everyone via pair programming on various aspects of both front and back end development and with being comfortable on relying on others to complete parts of the website, and being relied upon to complete my assigned tickets. By using all of these skills, we were able to implement our overall objective of designing an application that teaches young children coding concepts through fun stories and quizzes.
+While acting as project controls liaison between Highways England and the construction engineering corsortium responsible for over 50 simultaneous live construction projects, continuous communication and teamwork were essential for successfully interacting across varying seniority levels, departments, and organisations. By fostering and developing relationships with key members of Highways England and the construction consortium, I was able to successfully carry out schedule assurance on behalf of Highways England, enabling projects to be kept on schedule and agree approaches to mitigate delays to project completion dates.
 
 #### Self-motivation and Self-Learning
 In order to complete a Bachelors of Engineering (Hons) degree through the Open University, I maintained a 6-year long dedication to self-directed learning, studying 20-30 hours per week in addition to full-time employment. This required sustaining a highly self-motivated drive and determination to complete all required learning, assignments, projects, and exams each year and resulted in achieving a 2:1 grade.
