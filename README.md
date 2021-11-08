@@ -1,4 +1,4 @@
-# Ian King
+<!--# Ian King
 
 **[Projects](https://github.com/Battery0/CV#Projects) | [Work Experience](https://github.com/Battery0/CV#Work-Experience) | [Education](https://github.com/Battery0/CV#education) | [Skills](https://github.com/Battery0/CV#skills) | [Interests and Hobbies](https://github.com/Battery0/CV#Interests-and-Hobbies) | <a href="https://www.linkedin.com/in/iankinguk" target="blank" rel="noopener noreferrer">LinkedIn</a>**  
 
@@ -118,4 +118,4 @@ Visual Effects 3D Modelling and Animation course comprised of 3D modelling, anim
 ## Interests and Hobbies
 * Building computers - I enjoy building my own desktop computers, researching hardware, and keeping up-to-date with the latest technologies
 * Board games - My collection of board games includes far too many to count, and I love the social interaction with friends and family that comes from playing a game together
-* Video games - As a keen PC gamer for several decades, I thoroughly enjoy well-crafted role-playing (Witcher, Elder Scrolls), strategy (Stellaris), and action games (Tomb Raider, Dark Souls), although finding time can be difficult!
+* Video games - As a keen PC gamer for several decades, I thoroughly enjoy well-crafted role-playing (Witcher, Elder Scrolls), strategy (Stellaris), and action games (Tomb Raider, Dark Souls), although finding time can be difficult! -->
