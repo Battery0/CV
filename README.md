@@ -114,10 +114,6 @@ Bachelor of Engineering (Hons) 2:1. A 6-year remote learning degree with univers
 #### SAE Institute (2006 - 2007)
 Visual Effects 3D Modelling and Animation course comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality.
 
-#### Portsmouth (2015 - 2020)
-Bachelor of Engineering (Hons) 2:1. A 6-year remote learning degree with university campus visits for practical engineering lab-based work.
-* Degree path focusing on Engineering Design, encompassing technical problem solving, mathematics, chemistry, physics, product innovation and design, structural analysis, materials, mechanics, environmental management, energy, and sustainability
-
 
 ## Interests and Hobbies
 * Building computers - I enjoy building my own desktop computers, researching hardware, and keeping up-to-date with the latest technologies
