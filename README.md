@@ -114,5 +114,5 @@ Visual Effects 3D Modelling and Animation diploma comprised of 3D modelling, ani
 ## Interests and Hobbies
 * Board games and tabletop games - My collection of board games includes far too many to count. I love the social interaction with friends and family that comes from sitting down and playing a game together. I also participate in a bi weekly D&D game with friends that's now transferred over to Zoom due to Covid.
 * Building computers - I enjoy building my own desktop computers, researching hardware, and keeping up-to-date with the latest technologies
-* Foodie - As someone who loves good food, I relish fine dining and have been to a number of Michelin starred restaurants in the UK and abroad. I particularly enjoy the occasion, social aspects, food presentation, and trying new foods which I might not otherwise have the opportunity to do
+* Foodie - As someone who loves good food, I relish fine dining and have been to a number of Michelin starred restaurants in the UK and abroad. I particularly enjoy the occasion, social aspects, presentation, and trying new foods which I might not otherwise have the opportunity to do
 * Video games - As a keen PC gamer for several decades, I thoroughly enjoy well-crafted role-playing (Witcher, Elder Scrolls), strategy (Stellaris), and action games (Tomb Raider, Dark Souls), although finding time can be difficult!
