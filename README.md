@@ -92,7 +92,7 @@ Attending the Makers programming bootcamp relied on my ability to self-motivate 
 
 ## Education
 
-#### Makers Academy (June 2021 - October 2021)
+#### Makers Academy (2021)
 A 16-week full-time software development bootcamp composed of self-led learning, paired programming, group projects, and coach-driven workshops.
 * Working to strict deadlines to deliver and present multiple team-based projects
 * Learning to effectively plan and implement software projects through object-orientated design, wireframing, domain modelling, DB schema sketching, entity relationship diagrams, user stories, tickets, team work, daily paired programming, communication, stand-ups, and retros
