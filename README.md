@@ -39,9 +39,9 @@ Key responsibilities and achievements:
 * Development of collaborative relationships with client engineering teams to achieve buy-in and support for schedule development, requiring on-going communication and agreement across all teams to ensure schedule robustness, accuracy and adherence
 * Production of project controls documentation and planning work instructions to develop client project controls capability
 
-#### Junior Project Engineer - _AMEC Foster Wheeler - April 2013 to December 2015 (London, UK)_
+#### Junior Project Engineer - _AMEC Foster Wheeler - April 2013 to July 2015 (London, UK)_
 
-Junior project engineer within the oil and gas sector, working on large-scale engineering refinery projects with budgets of $15-$25 billion. Client projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
+Junior project engineer within the oil and gas sector, working on large-scale engineering refinery projects with budgets of $15-$25billion. Client projects included BP technical engineering standardisation, Kuwait National Petroleum Company Al-Zour oil refinery, and Calık Enerji Takoradi (Mansuriya) detailed engineering bid.
 
 Key responsibilities and achievements:
 * Establishment of budget, resource availability, and monitoring of expenditure to enable accurate tracking of project costs by the contract manager
