@@ -10,7 +10,7 @@ I am highly self-motivated junior software developer possessing a diligent and m
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Code4Fun](https://github.com/moby-codes/makers-final-project) | Teaching young children code concepts through themed stories and quizzes - _Makers Final Team Project_ - [Project presentation](https://www.youtube.com/watch?v=SroOXuwUyO0&t=703s) | JavaScript, React, Node, Express, MongoDB, Jest, HTML & CSS |
-| [Acebook](https://github.com/Willinlondon/acebook-rails-template-simple) | A Facebook clone built over a 2 week period. Sign up, log in and let the world know what's on your mind - _Team Project_ | Ruby, Ruby on Rails, Active Record, PostgresSQL, Rspec, Capybara, HTML & CSS, Heroku |
+| [Acebook](https://github.com/Willinlondon/acebook-rails-template-simple) | A Facebook clone built over a 2 week period. Sign up, log in and let the world know what's on your mind - _Team Project_ | Ruby, Ruby on Rails, Active Record, PostgreSQL, Rspec, Capybara, HTML & CSS, Heroku |
 | [Bank Tech Test](https://github.com/Battery0/bank) | An example tech test showcasing OOP, OOD, TDD and code quality - _Solo Project_ | Ruby, Rspec |
 
 For a complete list, see my [GitHub repositories](https://github.com/Battery0?tab=repositories).
@@ -99,7 +99,7 @@ A 16-week full-time software development bootcamp composed of self-led learning,
 * Utilising best practices to problem solve and debug software
 * Ensuring attention to detail to produce quality code in a TDD/BDD OOP style and adhering to separation of concerns and the single responsibility principle to develop classes and methods/functions
 * Mentoring new Makers students by providing guidance and 1:1 support
-* Languages & tech utilised - Ruby, Rails, Sinatra, JavaScript, Node, Express, PostgresSQL, RSpec, Capybara, Jasmine, Jest, HTML, CSS and Heroku
+* Languages & tech utilised - Ruby, Rails, Sinatra, JavaScript, Node, Express, PostgreSQL, RSpec, Capybara, Jasmine, Jest, HTML, CSS and Heroku
 
 #### The Open University (2015 - 2020)
 Bachelor of Engineering (Hons) 2:1. A 6-year remote learning degree with university campus visits for practical engineering lab-based work.
