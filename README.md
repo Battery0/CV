@@ -10,7 +10,7 @@ I am a highly self-motivated Junior Software Developer possessing a diligent and
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Code4Fun](https://github.com/moby-codes/makers-final-project) | Teaching young children code concepts through themed stories and quizzes - _Makers Final Team Project_ - [Project presentation](https://www.youtube.com/watch?v=SroOXuwUyO0&t=703s) | JavaScript, React, Node, Express, MongoDB, Jest, HTML & CSS |
-| [Acebook](https://github.com/Willinlondon/acebook-rails-template-simple) | A Facebook clone built over a 2 week period. Sign up, log in and let the world know what's on your mind - _Team Project_ | Ruby, Ruby on Rails, Active Record, PostgreSQL, Rspec, Capybara, HTML & CSS, Heroku |
+| [Acebook](https://github.com/Battery0/acebook-rails-template-simple) | A Facebook clone built over a 2 week period. Sign up, log in and let the world know what's on your mind - _Team Project_ | Ruby, Ruby on Rails, Active Record, PostgreSQL, Rspec, Capybara, HTML & CSS, Heroku |
 | [Bank Tech Test](https://github.com/Battery0/bank) | An example tech test showcasing OOP, OOD, TDD and code quality - _Solo Project_ | Ruby, Rspec |
 
 For a complete list, see my [GitHub repositories](https://github.com/Battery0?tab=repositories).
