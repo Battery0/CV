@@ -31,7 +31,7 @@ Key responsibilities and achievements:
 
 #### Planning and Project Controls Engineer - _Jacobs / CH2M - February 2016 to July 2018 (Bristol and London, UK)_
 
-Project planning and controls engineer within the defence, infrastructure, and transportation sectors. Projects included Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
+Project planning and controls engineer within the defence, infrastructure, and transportation sectors. Projects included the Ministry of Defence Submarine Operating Centre Framework and multiple Transport for London Underground, Overground, and Light Rail programmes.
 
 Key responsibilities and achievements:
 * Creation, management, and analysis of project schedules, functional scopes of work, basis of estimates, staffing plans, baselines, activity logic, and milestones in conjunction with client project managers to construct accurate project activity timelines, enabling reliable tracking of project progression, and identifying activity slippages that may impact key milestone dates and/or costs
@@ -79,7 +79,7 @@ As a project engineering consultant with the UK Ministry of Defence (MoD) submar
 
 During the Acebook project at Makers (a Facebook-styled clone app), our group experienced challenges implementing encrypted password storage to the database. To solve the problem, I researched, identified, and implemented an encryption method (BCrypt) that was capable of working with our project framework (Ruby on Rails). To ensure members of the group did not run into this challenge in future, I also shared this knowledge with the team and demonstrated how it worked.
 
-#### Communication and Team Work
+#### Communication and Teamwork
 Successfully completing the final two-week group project at Makers required a commitment to team work, communication, and building ways to work together within a high-pressure scenario in order to achieve a common goal. I collaborated via open discussions and critical thinking to determine the project focus and MVP features, and we utilised paired programming for front and back end development in order to support each other in learning and building within a new tech stack (MERN). I worked to cultivate patience, respect, and trust between group members, which was critical to the ability to rely on each other to complete different areas of the project. By using all of these skills, as a group, we succeeded collectively and implemented our overall objective of designing an application to teach young children coding concepts through fun stories and quizzes.
 
 While acting as project controls engineering liaison between Highways England and the construction engineering consortium responsible for over 50 simultaneous live construction projects, continuous communication and teamwork were essential for successfully interacting across varying seniority levels, departments, and organisations. By fostering and developing relationships with key members of Highways England and the construction consortium, I was able to successfully carry out schedule assurance on behalf of Highways England, enabling projects to be kept on schedule and agree approaches to mitigate delays to project completion dates.
@@ -95,7 +95,7 @@ Attending the Makers programming bootcamp relied on my ability to self-motivate 
 #### Makers Academy (2021)
 A 16-week full-time software development bootcamp composed of self-led learning, paired programming, group projects, and coach-driven workshops.
 * Working to strict deadlines to deliver and present multiple team-based projects
-* Learning to effectively plan and implement software projects through object-orientated design, wireframing, domain modelling, DB schema sketching, entity relationship diagrams, user stories, tickets, team work, daily paired programming, communication, stand-ups, and retros
+* Learning to effectively plan and implement software projects through object-oriented design, wireframing, domain modelling, DB schema sketching, entity relationship diagrams, user stories, tickets, team work, daily paired programming, communication, stand-ups, and retros
 * Utilising best practices to problem solve and debug software
 * Ensuring attention to detail to produce quality code in a TDD/BDD OOP style and adhering to separation of concerns and the single responsibility principle to develop classes and methods/functions
 * Mentoring new Makers students by providing guidance and 1:1 support
@@ -108,7 +108,7 @@ Bachelor of Engineering (Hons) 2:1. A 6-year remote learning degree with univers
 * Accredited degree with the prestigious Institution of Mechanical Engineers (IMechE)
 
 #### SAE Institute (2006 - 2007)
-Visual Effects 3D Modelling and Animation diploma comprised of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality.
+Visual Effects 3D Modelling and Animation diploma consisted of 3D modelling, animation, texturing, lighting and rendering at broadcast and film level quality.
 
 
 ## Interests and Hobbies
